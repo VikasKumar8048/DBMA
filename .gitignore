@@ -205,3 +205,30 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+# Project specific
+logs/
+*.log
+
+# Database dumps
+*.sql
+*.dump
+
+# Local runtime files
+*.db
+*.sqlite3
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code (if using it)
+.vscode/
+
+# PyCharm
+.idea/
+
+# Temporary files
+*.tmp
+*.bak
