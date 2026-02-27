@@ -244,19 +244,34 @@ DBMA: Switched to hospital_database. Loaded 47 previous messages.
 
 ```
 DBMA/
-├── main.py                  # Entry point
-├── config.py                # Configuration & environment variables
-├── requirements.txt         # Python dependencies
-├── .env.example             # Environment template
-├── database/
-│   └── schema.sql           # PostgreSQL persistence schema
-├── core/
-│   ├── agent.py             # Main AI agent — intent, LLM, self-healing
-│   ├── mysql_manager.py     # MySQL connection & query execution
-│   └── persistence.py       # PostgreSQL — messages, schema, summaries
-└── ui/
-    ├── tui.py               # Textual TUI — 4-quadrant layout
-    └── dbma.tcss            # Terminal stylesheet
+├── main.py                 ← Entry point (click CLI)
+├── simple_cli.py           ← Fallback non-TUI CLI
+├── config.py               ← Centralized configuration
+├── requirements.txt        ← Python dependencies
+├── .env.example            ← Environment template
+│
+├── core/                   ← Business Logic
+│   ├── __init__.py
+│   ├── mysql_manager.py    ← MySQL connection, introspection, query execution
+│   ├── persistence.py      ← PostgreSQL chat history manager (thread-per-db)
+│   ├── agent.py            ← ⚠️ AI Agent (Ollama LLM integration here)
+│   └── query_executor.py  ← SQL execution + MySQL-CLI-style output formatter
+│
+├── ui/                     ← User Interface
+│   ├── __init__.py
+│   ├── tui.py              ← Textual split-panel TUI application
+│   └── dbma.tcss           ← Textual CSS styling
+│
+├── utils/                  ← Utilities
+│   ├── __init__.py
+│   ├── logger.py           ← Loguru logging setup
+│   └── helpers.py          ← General utility functions
+│
+└── database/               ← Database files
+    ├── schema.sql          ← PostgreSQL persistence schema (run once)
+    └── migrations/         ← Future migration files
+        └── 001_initial.sql
+```
 ```
 
 ---
