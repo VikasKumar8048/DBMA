@@ -1,0 +1,356 @@
+/* ============================================================
+   DBMA - Database Management Agent
+   ui/dbma.tcss
+   ============================================================ */
+
+/* ── Global ───────────────────────────────────────────────── */
+Screen {
+    background: #0d1117;
+    layout: vertical;
+    overflow: hidden;
+}
+
+/* RichLog — prevent selection highlight from bleeding horizontally */
+RichLog {
+    background: #0d1117;
+    overflow: hidden;
+    scrollbar-background: #161b22;
+    scrollbar-color: #30363d;
+}
+
+RichLog:focus {
+    background: #0d1117;
+}
+
+/* Override Textual's internal hover/selection highlight color */
+RichLog > .rich-log--highlight {
+    background: #1c4a6e;
+}
+
+/* ── Header ───────────────────────────────────────────────── */
+#header {
+    height: 3;
+    background: #161b22;
+    border-bottom: solid #30363d;
+    layout: horizontal;
+    align: left middle;
+    padding: 0 2;
+    overflow: hidden;
+}
+
+#header-title {
+    color: #58a6ff;
+    text-style: bold;
+    width: auto;
+}
+
+#header-status {
+    color: #8b949e;
+    width: 1fr;
+    text-align: right;
+}
+
+#header-db-badge {
+    color: #3fb950;
+    text-style: bold;
+    background: #1f4428;
+    padding: 0 2;
+    margin: 0 1;
+}
+
+/* ── Status Bar ───────────────────────────────────────────── */
+#status-bar {
+    height: 1;
+    background: #21262d;
+    layout: horizontal;
+    padding: 0 2;
+    overflow: hidden;
+}
+
+#status-left {
+    color: #8b949e;
+    width: 1fr;
+}
+
+#status-right {
+    color: #8b949e;
+    text-align: right;
+    width: auto;
+}
+
+/* ── Main Container ───────────────────────────────────────── */
+#main-container {
+    layout: horizontal;
+    height: 1fr;
+    overflow: hidden;
+}
+
+/* ══════════════════════════════════════════════════════════
+   LEFT PANEL
+══════════════════════════════════════════════════════════ */
+#query-panel {
+    width: 60%;
+    layout: vertical;
+    border-right: solid #30363d;
+    overflow: hidden;
+}
+
+#query-panel-header {
+    height: 2;
+    background: #161b22;
+    border-bottom: solid #21262d;
+    padding: 0 2;
+    color: #e6edf3;
+    text-style: bold;
+    overflow: hidden;
+}
+
+#query-output {
+    height: 1fr;
+    overflow-y: auto;
+    overflow-x: hidden;
+    padding: 1 2;
+    background: #0d1117;
+}
+
+/* ── SQL Input (FIXED 5 rows — never expands) ─────────────── */
+#query-input-area {
+    height: 5;
+    min-height: 5;
+    max-height: 5;
+    background: #161b22;
+    border-top: solid #30363d;
+    layout: vertical;
+    overflow: hidden;
+}
+
+#query-prompt-line {
+    height: 1;
+    layout: horizontal;
+    padding: 0 2;
+    background: #161b22;
+}
+
+#query-prompt-label {
+    color: #3fb950;
+    text-style: bold;
+    width: auto;
+}
+
+#query-prompt-db {
+    color: #58a6ff;
+    text-style: bold;
+    width: auto;
+}
+
+#query-prompt-arrow {
+    color: #8b949e;
+    width: auto;
+}
+
+#query-input {
+    border: none;
+    background: #0d1117;
+    color: #e6edf3;
+    padding: 0 2;
+    height: 3;
+}
+
+#query-input:focus {
+    border: solid #58a6ff;
+    outline: none;
+}
+
+/* ══════════════════════════════════════════════════════════
+   RIGHT PANEL
+══════════════════════════════════════════════════════════ */
+#chat-panel {
+    width: 40%;
+    layout: vertical;
+    background: #0d1117;
+    overflow: hidden;
+}
+
+#chat-panel-header {
+    height: 2;
+    background: #161b22;
+    border-bottom: solid #21262d;
+    padding: 0 2;
+    color: #e6edf3;
+    text-style: bold;
+    overflow: hidden;
+}
+
+#chat-messages {
+    height: 1fr;
+    overflow-y: auto;
+    overflow-x: hidden;
+    padding: 1 1;
+    background: #0d1117;
+}
+
+/* Chat Bubbles */
+.chat-bubble-human {
+    background: #1c2128;
+    border: solid #30363d;
+    padding: 1 2;
+    margin: 1 0;
+    color: #e6edf3;
+    overflow: hidden;
+}
+
+.chat-bubble-agent {
+    background: #0f1923;
+    border: solid #1f4428;
+    padding: 1 2;
+    margin: 1 0;
+    color: #adbac7;
+    overflow: hidden;
+}
+
+.chat-bubble-system {
+    background: #161b22;
+    border: solid #30363d;
+    padding: 0 2;
+    margin: 0 0;
+    color: #8b949e;
+    overflow: hidden;
+}
+
+.chat-bubble-error {
+    background: #2a1a1a;
+    border: solid #f85149;
+    padding: 1 2;
+    margin: 1 0;
+    color: #f85149;
+    overflow: hidden;
+}
+
+/* ── Chat Input (FIXED 5 rows — never expands) ────────────── */
+#chat-input-area {
+    height: 5;
+    min-height: 5;
+    max-height: 5;
+    background: #161b22;
+    border-top: solid #30363d;
+    layout: vertical;
+    overflow: hidden;
+}
+
+#chat-input-label {
+    height: 1;
+    padding: 0 2;
+    color: #3fb950;
+    text-style: bold;
+    background: #161b22;
+}
+
+#chat-input {
+    border: none;
+    background: #0d1117;
+    color: #e6edf3;
+    padding: 0 2;
+    height: 3;
+}
+
+#chat-input:focus {
+    border: solid #3fb950;
+}
+
+/* ── Confirmation Modal ───────────────────────────────────── */
+DestructiveConfirmModal {
+    align: center middle;
+}
+
+#confirm-modal-container {
+    width: 70;
+    height: 20;
+    background: #161b22;
+    border: tall #f85149;
+    padding: 1 2;
+    layout: vertical;
+}
+
+#modal-title {
+    color: #f85149;
+    text-style: bold;
+    text-align: center;
+    height: 1;
+    margin-bottom: 1;
+}
+
+#modal-subtitle {
+    color: #8b949e;
+    height: 1;
+}
+
+#modal-query {
+    color: #f0883e;
+    background: #0d1117;
+    padding: 1 2;
+    margin: 1 0;
+    height: 4;
+    overflow: hidden;
+}
+
+#modal-warning {
+    color: #f85149;
+    text-style: bold;
+    text-align: center;
+    height: 1;
+}
+
+#modal-hint {
+    color: #484f58;
+    text-align: center;
+    height: 1;
+    margin-top: 1;
+}
+
+#modal-buttons {
+    layout: horizontal;
+    align: center middle;
+    height: 3;
+    margin-top: 1;
+}
+
+#btn-cancel {
+    background: #21262d;
+    color: #e6edf3;
+    border: tall #484f58;
+    margin: 0 2;
+    min-width: 16;
+}
+
+#btn-execute {
+    background: #6e0b0b;
+    color: #ffffff;
+    border: tall #f85149;
+    margin: 0 2;
+    min-width: 16;
+}
+
+#btn-cancel:focus {
+    background: #30363d;
+    border: tall #8b949e;
+}
+
+#btn-execute:focus {
+    background: #9b1a1a;
+    border: tall #ff6b6b;
+}
+
+#btn-cancel:hover {
+    background: #30363d;
+}
+
+#btn-execute:hover {
+    background: #9b1a1a;
+}
+
+/* ── Toast ────────────────────────────────────────────────── */
+Toast {
+    background: #1f4428;
+    color: #3fb950;
+    border: solid #238636;
+}

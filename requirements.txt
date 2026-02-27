@@ -1,0 +1,51 @@
+# ============================================================
+# DBMA - Database Management Agent
+# Requirements File
+# ============================================================
+
+# Terminal UI Framework
+textual>=0.47.0
+rich>=13.7.0
+
+# MySQL Database Driver
+mysql-connector-python>=8.3.0
+PyMySQL>=1.1.0
+
+# PostgreSQL Driver (for persistent chat storage)
+psycopg2-binary>=2.9.9
+asyncpg>=0.29.0
+
+# Ollama LLM Integration
+ollama>=0.1.8
+httpx>=0.26.0
+
+# LangChain / LangGraph for Agent Orchestration
+langchain>=0.1.0
+langchain-community>=0.0.20
+langchain-core>=0.1.0
+langgraph>=0.0.40
+
+# Configuration Management
+python-dotenv>=1.0.0
+pydantic>=2.5.0
+pydantic-settings>=2.1.0
+
+# Async Support
+anyio>=4.2.0
+
+# Utilities
+tabulate>=0.9.0
+colorama>=0.4.6
+prompt_toolkit>=3.0.43
+pygments>=2.17.0
+click>=8.1.7
+
+# Date/Time
+python-dateutil>=2.8.2
+
+# Logging
+loguru>=0.7.2
+
+# Testing (optional)
+pytest>=7.4.0
+pytest-asyncio>=0.23.0

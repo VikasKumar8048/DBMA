@@ -1,0 +1,928 @@
+2026-02-25 09:48:06 | INFO     | logger:setup_logger:29 | DBMA Logger initialized
+2026-02-25 09:48:06 | INFO     | main:launch_tui:78 | Starting DBMA v1.0.0 (TUI mode)
+2026-02-25 09:52:42 | INFO     | logger:setup_logger:29 | DBMA Logger initialized
+2026-02-25 09:52:42 | INFO     | main:launch_tui:78 | Starting DBMA v1.0.0 (TUI mode)
+2026-02-25 09:52:45 | INFO     | mysql_manager:connect:82 | Connected to MySQL at localhost:3306
+2026-02-25 09:52:45 | INFO     | persistence:connect:74 | Connected to PostgreSQL persistence DB: dbma_persistence
+2026-02-25 09:52:45 | INFO     | persistence:initialize_schema:107 | PostgreSQL schema initialized successfully
+2026-02-25 09:52:45 | INFO     | agent:__init__:147 | DBMAAgent initialized with model: llama3.1:8b
+2026-02-25 09:58:15 | INFO     | logger:setup_logger:29 | DBMA Logger initialized
+2026-02-25 09:58:15 | INFO     | main:launch_tui:78 | Starting DBMA v1.0.0 (TUI mode)
+2026-02-25 09:58:18 | INFO     | mysql_manager:connect:82 | Connected to MySQL at localhost:3306
+2026-02-25 09:58:18 | INFO     | persistence:connect:74 | Connected to PostgreSQL persistence DB: dbma_persistence
+2026-02-25 09:58:18 | INFO     | persistence:initialize_schema:107 | PostgreSQL schema initialized successfully
+2026-02-25 09:58:18 | INFO     | agent:__init__:147 | DBMAAgent initialized with model: llama3.1:8b
+2026-02-25 09:58:37 | INFO     | logger:setup_logger:29 | DBMA Logger initialized
+2026-02-25 09:58:37 | INFO     | main:launch_tui:78 | Starting DBMA v1.0.0 (TUI mode)
+2026-02-25 09:58:40 | INFO     | mysql_manager:connect:82 | Connected to MySQL at localhost:3306
+2026-02-25 09:58:40 | INFO     | persistence:connect:74 | Connected to PostgreSQL persistence DB: dbma_persistence
+2026-02-25 09:58:40 | INFO     | persistence:initialize_schema:107 | PostgreSQL schema initialized successfully
+2026-02-25 09:58:40 | INFO     | agent:__init__:147 | DBMAAgent initialized with model: llama3.1:8b
+2026-02-25 10:05:04 | INFO     | logger:setup_logger:29 | DBMA Logger initialized
+2026-02-25 10:05:04 | INFO     | main:launch_tui:78 | Starting DBMA v1.0.0 (TUI mode)
+2026-02-25 10:05:07 | INFO     | mysql_manager:connect:82 | Connected to MySQL at localhost:3306
+2026-02-25 10:05:07 | INFO     | persistence:connect:74 | Connected to PostgreSQL persistence DB: dbma_persistence
+2026-02-25 10:05:07 | INFO     | persistence:initialize_schema:107 | PostgreSQL schema initialized successfully
+2026-02-25 10:05:07 | INFO     | agent:__init__:147 | DBMAAgent initialized with model: llama3.1:8b
+2026-02-25 10:08:19 | INFO     | logger:setup_logger:29 | DBMA Logger initialized
+2026-02-25 10:08:19 | INFO     | main:launch_tui:78 | Starting DBMA v1.0.0 (TUI mode)
+2026-02-25 10:08:22 | INFO     | mysql_manager:connect:82 | Connected to MySQL at localhost:3306
+2026-02-25 10:08:22 | INFO     | persistence:connect:74 | Connected to PostgreSQL persistence DB: dbma_persistence
+2026-02-25 10:08:22 | INFO     | persistence:initialize_schema:107 | PostgreSQL schema initialized successfully
+2026-02-25 10:08:22 | INFO     | agent:__init__:147 | DBMAAgent initialized with model: llama3.1:8b
+2026-02-25 10:11:57 | INFO     | logger:setup_logger:29 | DBMA Logger initialized
+2026-02-25 10:11:57 | INFO     | main:launch_tui:78 | Starting DBMA v1.0.0 (TUI mode)
+2026-02-25 10:12:00 | INFO     | mysql_manager:connect:82 | Connected to MySQL at localhost:3306
+2026-02-25 10:12:00 | INFO     | persistence:connect:74 | Connected to PostgreSQL persistence DB: dbma_persistence
+2026-02-25 10:12:00 | INFO     | persistence:initialize_schema:107 | PostgreSQL schema initialized successfully
+2026-02-25 10:12:00 | INFO     | agent:__init__:147 | DBMAAgent initialized with model: llama3.1:8b
+2026-02-25 10:22:21 | INFO     | logger:setup_logger:29 | DBMA Logger initialized
+2026-02-25 10:22:21 | INFO     | main:launch_tui:78 | Starting DBMA v1.0.0 (TUI mode)
+2026-02-25 10:22:25 | INFO     | mysql_manager:connect:82 | Connected to MySQL at localhost:3306
+2026-02-25 10:22:25 | INFO     | persistence:connect:74 | Connected to PostgreSQL persistence DB: dbma_persistence
+2026-02-25 10:22:25 | INFO     | persistence:initialize_schema:107 | PostgreSQL schema initialized successfully
+2026-02-25 10:22:25 | INFO     | agent:__init__:147 | DBMAAgent initialized with model: llama3.1:8b
+2026-02-25 10:24:44 | INFO     | logger:setup_logger:29 | DBMA Logger initialized
+2026-02-25 10:24:44 | INFO     | main:launch_tui:78 | Starting DBMA v1.0.0 (TUI mode)
+2026-02-25 10:24:47 | INFO     | mysql_manager:connect:82 | Connected to MySQL at localhost:3306
+2026-02-25 10:24:47 | INFO     | persistence:connect:74 | Connected to PostgreSQL persistence DB: dbma_persistence
+2026-02-25 10:24:47 | INFO     | persistence:initialize_schema:107 | PostgreSQL schema initialized successfully
+2026-02-25 10:24:47 | INFO     | agent:__init__:147 | DBMAAgent initialized with model: llama3.1:8b
+2026-02-25 10:32:12 | INFO     | logger:setup_logger:29 | DBMA Logger initialized
+2026-02-25 10:32:12 | INFO     | main:launch_tui:78 | Starting DBMA v1.0.0 (TUI mode)
+2026-02-25 10:32:15 | INFO     | mysql_manager:connect:82 | Connected to MySQL at localhost:3306
+2026-02-25 10:32:15 | INFO     | persistence:connect:74 | Connected to PostgreSQL persistence DB: dbma_persistence
+2026-02-25 10:32:15 | INFO     | persistence:initialize_schema:107 | PostgreSQL schema initialized successfully
+2026-02-25 10:32:15 | INFO     | agent:__init__:147 | DBMAAgent initialized with model: llama3.1:8b
+2026-02-25 10:45:24 | INFO     | logger:setup_logger:29 | DBMA Logger initialized
+2026-02-25 10:45:24 | INFO     | main:launch_tui:78 | Starting DBMA v1.0.0 (TUI mode)
+2026-02-25 10:45:27 | INFO     | mysql_manager:connect:82 | Connected to MySQL at localhost:3306
+2026-02-25 10:45:27 | INFO     | persistence:connect:74 | Connected to PostgreSQL persistence DB: dbma_persistence
+2026-02-25 10:45:27 | INFO     | persistence:initialize_schema:107 | PostgreSQL schema initialized successfully
+2026-02-25 10:45:27 | INFO     | agent:__init__:147 | DBMAAgent initialized with model: llama3.1:8b
+2026-02-25 10:59:36 | INFO     | logger:setup_logger:29 | DBMA Logger initialized
+2026-02-25 10:59:36 | INFO     | main:launch_tui:78 | Starting DBMA v1.0.0 (TUI mode)
+2026-02-25 10:59:39 | INFO     | mysql_manager:connect:82 | Connected to MySQL at localhost:3306
+2026-02-25 10:59:39 | INFO     | persistence:connect:74 | Connected to PostgreSQL persistence DB: dbma_persistence
+2026-02-25 10:59:39 | INFO     | persistence:initialize_schema:107 | PostgreSQL schema initialized successfully
+2026-02-25 10:59:39 | INFO     | agent:__init__:147 | DBMAAgent initialized with model: llama3.1:8b
+2026-02-25 11:00:20 | INFO     | mysql_manager:use_database:126 | Switched to database: dbma_db
+2026-02-25 11:00:20 | INFO     | agent:set_database_context:159 | Setting database context: dbma_db
+2026-02-25 11:00:20 | INFO     | mysql_manager:use_database:126 | Switched to database: dbma_db
+2026-02-25 11:00:20 | INFO     | mysql_manager:get_full_database_schema:327 | Extracting full schema for database: dbma_db
+2026-02-25 11:00:20 | INFO     | persistence:save_schema_cache:378 | Schema cached for thread=thread_83cbff88cad849f966069413c4cb9bdc tables=0
+2026-02-25 11:00:20 | INFO     | agent:_refresh_schema:193 | Schema extracted and cached: 0 tables
+2026-02-25 11:00:20 | INFO     | agent:set_database_context:173 | Loaded thread thread_83cbff88cad849f966069413c4cb9bdc with 0 historical messages
+2026-02-25 11:00:20 | INFO     | persistence:load_chat_history:279 | Loaded 0 messages for thread: thread_83cbff88cad849f966069413c4cb9bdc
+2026-02-25 11:16:19 | INFO     | mysql_manager:use_database:126 | Switched to database: hospital_database
+2026-02-25 11:16:19 | INFO     | agent:set_database_context:159 | Setting database context: hospital_database
+2026-02-25 11:16:19 | INFO     | mysql_manager:use_database:126 | Switched to database: hospital_database
+2026-02-25 11:16:19 | INFO     | mysql_manager:get_full_database_schema:327 | Extracting full schema for database: hospital_database
+2026-02-25 11:16:19 | INFO     | persistence:save_schema_cache:378 | Schema cached for thread=thread_fa0cca9b014b55911dc56c38762bc40c tables=3
+2026-02-25 11:16:19 | INFO     | agent:_refresh_schema:193 | Schema extracted and cached: 3 tables
+2026-02-25 11:16:19 | INFO     | agent:set_database_context:173 | Loaded thread thread_fa0cca9b014b55911dc56c38762bc40c with 0 historical messages
+2026-02-25 11:16:19 | INFO     | persistence:load_chat_history:279 | Loaded 0 messages for thread: thread_fa0cca9b014b55911dc56c38762bc40c
+2026-02-25 11:21:18 | INFO     | logger:setup_logger:29 | DBMA Logger initialized
+2026-02-25 11:21:18 | INFO     | main:launch_tui:78 | Starting DBMA v1.0.0 (TUI mode)
+2026-02-25 11:21:21 | INFO     | mysql_manager:connect:82 | Connected to MySQL at localhost:3306
+2026-02-25 11:21:21 | INFO     | persistence:connect:74 | Connected to PostgreSQL persistence DB: dbma_persistence
+2026-02-25 11:21:21 | INFO     | persistence:initialize_schema:107 | PostgreSQL schema initialized successfully
+2026-02-25 11:21:21 | INFO     | agent:__init__:147 | DBMAAgent initialized with model: llama3.1:8b
+2026-02-25 11:22:04 | INFO     | mysql_manager:use_database:126 | Switched to database: dbma_db
+2026-02-25 11:22:04 | INFO     | agent:set_database_context:159 | Setting database context: dbma_db
+2026-02-25 11:22:04 | INFO     | mysql_manager:use_database:126 | Switched to database: dbma_db
+2026-02-25 11:22:04 | INFO     | agent:set_database_context:173 | Loaded thread thread_83cbff88cad849f966069413c4cb9bdc with 10 historical messages
+2026-02-25 11:22:04 | INFO     | persistence:load_chat_history:279 | Loaded 10 messages for thread: thread_83cbff88cad849f966069413c4cb9bdc
+2026-02-25 11:24:23 | INFO     | logger:setup_logger:29 | DBMA Logger initialized
+2026-02-25 11:24:23 | INFO     | main:launch_tui:78 | Starting DBMA v1.0.0 (TUI mode)
+2026-02-25 11:24:26 | INFO     | mysql_manager:connect:82 | Connected to MySQL at localhost:3306
+2026-02-25 11:24:26 | INFO     | persistence:connect:74 | Connected to PostgreSQL persistence DB: dbma_persistence
+2026-02-25 11:24:26 | INFO     | persistence:initialize_schema:107 | PostgreSQL schema initialized successfully
+2026-02-25 11:24:26 | INFO     | agent:__init__:147 | DBMAAgent initialized with model: llama3.1:8b
+2026-02-25 11:25:08 | INFO     | mysql_manager:use_database:126 | Switched to database: dbma_db
+2026-02-25 11:25:08 | INFO     | agent:set_database_context:159 | Setting database context: dbma_db
+2026-02-25 11:25:08 | INFO     | mysql_manager:use_database:126 | Switched to database: dbma_db
+2026-02-25 11:25:08 | INFO     | agent:set_database_context:173 | Loaded thread thread_83cbff88cad849f966069413c4cb9bdc with 10 historical messages
+2026-02-25 11:25:08 | INFO     | persistence:load_chat_history:279 | Loaded 10 messages for thread: thread_83cbff88cad849f966069413c4cb9bdc
+2026-02-25 11:41:05 | INFO     | logger:setup_logger:29 | DBMA Logger initialized
+2026-02-25 11:41:05 | INFO     | main:launch_tui:78 | Starting DBMA v1.0.0 (TUI mode)
+2026-02-25 11:41:08 | INFO     | mysql_manager:connect:82 | Connected to MySQL at localhost:3306
+2026-02-25 11:41:09 | INFO     | persistence:connect:74 | Connected to PostgreSQL persistence DB: dbma_persistence
+2026-02-25 11:41:09 | INFO     | persistence:initialize_schema:107 | PostgreSQL schema initialized successfully
+2026-02-25 11:41:09 | INFO     | agent:__init__:147 | DBMAAgent initialized with model: llama3.1:8b
+2026-02-25 11:41:40 | INFO     | mysql_manager:use_database:126 | Switched to database: dbma_db
+2026-02-25 11:41:40 | INFO     | agent:set_database_context:159 | Setting database context: dbma_db
+2026-02-25 11:41:40 | INFO     | mysql_manager:use_database:126 | Switched to database: dbma_db
+2026-02-25 11:41:40 | INFO     | agent:set_database_context:173 | Loaded thread thread_83cbff88cad849f966069413c4cb9bdc with 10 historical messages
+2026-02-25 11:41:40 | INFO     | persistence:load_chat_history:279 | Loaded 10 messages for thread: thread_83cbff88cad849f966069413c4cb9bdc
+2026-02-25 11:57:41 | INFO     | logger:setup_logger:29 | DBMA Logger initialized
+2026-02-25 11:57:41 | INFO     | main:launch_tui:78 | Starting DBMA v1.0.0 (TUI mode)
+2026-02-25 11:57:44 | INFO     | mysql_manager:connect:82 | Connected to MySQL at localhost:3306
+2026-02-25 11:57:44 | INFO     | persistence:connect:74 | Connected to PostgreSQL persistence DB: dbma_persistence
+2026-02-25 11:57:44 | INFO     | persistence:initialize_schema:107 | PostgreSQL schema initialized successfully
+2026-02-25 11:57:44 | INFO     | agent:__init__:147 | DBMAAgent initialized with model: llama3.1:8b
+2026-02-25 11:58:11 | INFO     | mysql_manager:use_database:126 | Switched to database: dbma_db
+2026-02-25 11:58:11 | INFO     | agent:set_database_context:159 | Setting database context: dbma_db
+2026-02-25 11:58:11 | INFO     | mysql_manager:use_database:126 | Switched to database: dbma_db
+2026-02-25 11:58:11 | INFO     | agent:set_database_context:173 | Loaded thread thread_83cbff88cad849f966069413c4cb9bdc with 10 historical messages
+2026-02-25 11:58:11 | INFO     | persistence:load_chat_history:279 | Loaded 10 messages for thread: thread_83cbff88cad849f966069413c4cb9bdc
+2026-02-25 12:08:14 | INFO     | logger:setup_logger:29 | DBMA Logger initialized
+2026-02-25 12:08:14 | INFO     | main:launch_tui:78 | Starting DBMA v1.0.0 (TUI mode)
+2026-02-25 12:08:18 | INFO     | mysql_manager:connect:82 | Connected to MySQL at localhost:3306
+2026-02-25 12:08:18 | INFO     | persistence:connect:74 | Connected to PostgreSQL persistence DB: dbma_persistence
+2026-02-25 12:08:18 | INFO     | persistence:initialize_schema:107 | PostgreSQL schema initialized successfully
+2026-02-25 12:08:18 | INFO     | agent:__init__:147 | DBMAAgent initialized with model: llama3.1:8b
+2026-02-25 12:08:51 | INFO     | mysql_manager:use_database:126 | Switched to database: dbma_db
+2026-02-25 12:08:51 | INFO     | agent:set_database_context:159 | Setting database context: dbma_db
+2026-02-25 12:08:52 | INFO     | mysql_manager:use_database:126 | Switched to database: dbma_db
+2026-02-25 12:08:52 | INFO     | agent:set_database_context:173 | Loaded thread thread_83cbff88cad849f966069413c4cb9bdc with 16 historical messages
+2026-02-25 12:08:52 | INFO     | persistence:load_chat_history:279 | Loaded 16 messages for thread: thread_83cbff88cad849f966069413c4cb9bdc
+2026-02-25 12:32:07 | INFO     | mysql_manager:use_database:126 | Switched to database: hospital_database
+2026-02-25 12:32:07 | INFO     | agent:set_database_context:159 | Setting database context: hospital_database
+2026-02-25 12:32:07 | INFO     | mysql_manager:use_database:126 | Switched to database: hospital_database
+2026-02-25 12:32:07 | INFO     | agent:set_database_context:173 | Loaded thread thread_fa0cca9b014b55911dc56c38762bc40c with 4 historical messages
+2026-02-25 12:32:07 | INFO     | persistence:load_chat_history:279 | Loaded 4 messages for thread: thread_fa0cca9b014b55911dc56c38762bc40c
+2026-02-25 13:10:15 | INFO     | logger:setup_logger:29 | DBMA Logger initialized
+2026-02-25 13:10:15 | INFO     | main:launch_tui:78 | Starting DBMA v1.0.0 (TUI mode)
+2026-02-25 13:10:19 | INFO     | mysql_manager:connect:82 | Connected to MySQL at localhost:3306
+2026-02-25 13:10:19 | INFO     | persistence:connect:74 | Connected to PostgreSQL persistence DB: dbma_persistence
+2026-02-25 13:10:19 | INFO     | persistence:initialize_schema:107 | PostgreSQL schema initialized successfully
+2026-02-25 13:10:19 | INFO     | agent:__init__:147 | DBMAAgent initialized with model: llama3.1:8b
+2026-02-25 13:10:50 | INFO     | mysql_manager:use_database:126 | Switched to database: hospital_database
+2026-02-25 13:10:50 | INFO     | agent:set_database_context:159 | Setting database context: hospital_database
+2026-02-25 13:10:50 | INFO     | mysql_manager:use_database:126 | Switched to database: hospital_database
+2026-02-25 13:10:50 | INFO     | agent:set_database_context:173 | Loaded thread thread_fa0cca9b014b55911dc56c38762bc40c with 12 historical messages
+2026-02-25 13:10:50 | INFO     | persistence:load_chat_history:279 | Loaded 12 messages for thread: thread_fa0cca9b014b55911dc56c38762bc40c
+2026-02-25 13:14:28 | INFO     | mysql_manager:use_database:126 | Switched to database: hospital_db
+2026-02-25 13:14:28 | INFO     | agent:set_database_context:159 | Setting database context: hospital_db
+2026-02-25 13:14:28 | INFO     | mysql_manager:use_database:126 | Switched to database: hospital_db
+2026-02-25 13:14:28 | INFO     | mysql_manager:get_full_database_schema:327 | Extracting full schema for database: hospital_db
+2026-02-25 13:14:28 | INFO     | persistence:save_schema_cache:378 | Schema cached for thread=thread_c03b0ca460ed1f136328a767f10269f9 tables=17
+2026-02-25 13:14:28 | INFO     | agent:_refresh_schema:193 | Schema extracted and cached: 17 tables
+2026-02-25 13:14:28 | INFO     | agent:set_database_context:173 | Loaded thread thread_c03b0ca460ed1f136328a767f10269f9 with 0 historical messages
+2026-02-25 13:14:28 | INFO     | persistence:load_chat_history:279 | Loaded 0 messages for thread: thread_c03b0ca460ed1f136328a767f10269f9
+2026-02-26 03:35:14 | INFO     | mysql_manager:use_database:126 | Switched to database: Hospital_Database
+2026-02-26 03:35:14 | INFO     | agent:set_database_context:159 | Setting database context: Hospital_Database
+2026-02-26 03:35:14 | INFO     | mysql_manager:use_database:126 | Switched to database: Hospital_Database
+2026-02-26 03:35:14 | INFO     | mysql_manager:get_full_database_schema:327 | Extracting full schema for database: Hospital_Database
+2026-02-26 03:35:14 | INFO     | persistence:save_schema_cache:378 | Schema cached for thread=thread_36514eb64aa910c63b88935726a25bfd tables=3
+2026-02-26 03:35:14 | INFO     | agent:_refresh_schema:193 | Schema extracted and cached: 3 tables
+2026-02-26 03:35:14 | INFO     | agent:set_database_context:173 | Loaded thread thread_36514eb64aa910c63b88935726a25bfd with 0 historical messages
+2026-02-26 03:35:14 | INFO     | persistence:load_chat_history:279 | Loaded 0 messages for thread: thread_36514eb64aa910c63b88935726a25bfd
+2026-02-26 03:38:19 | ERROR    | mysql_manager:execute_query:196 | Query failed: 1049 (42000): Unknown database 'desc'
+Query: USE `desc`
+2026-02-26 03:51:13 | ERROR    | mysql_manager:execute_query:196 | Query failed: 1054 (42S22): Unknown column 'p_id' in 'field list'
+Query: INSERT INTO `patients` (`p_id`, `name`, `age`, `city`, `phone`, `disease`, `bill_amount`) VALUES (1, 'John Doe', 30, 'New York', '1234567890', 'Diabetes', 100.00), (2, 'Jane Smith', 25, 'Los Angeles', '0987654321', 'Hypertension', 200.00), (3, 'Bob Johnson', 40, 'Chicago', '5551234567', 'Asthma', 300.00), (4, 'Alice Brown', 35, 'Houston', '9012345678', 'Heart Disease', 400.00), (5, 'Mike Davis', 28, 'Phoenix', '1112223333', 'Kidney Disease', 500.00), (6, 'Emily Taylor', 32, 'Philadelphia', '4445556666', 'Stroke', 600.00), (7, 'David Lee', 38, 'San Antonio', '7778889999', 'Cancer', 700.00), (8, 'Sarah Kim', 29, 'San Diego', '0001112222', 'Tuberculosis', 800.00), (9, 'Kevin White', 42, 'Dallas', '3334445555', 'Pneumonia', 900.00), (10, 'Olivia Martin', 36, 'San Jose', '6667778888', 'Flu', 1000.00)
+2026-02-26 03:54:40 | ERROR    | mysql_manager:execute_query:196 | Query failed: 1062 (23000): Duplicate entry '1' for key 'patients.PRIMARY'
+Query: INSERT INTO `patients` (`patient_id`, `name`, `age`, `city`, `phone`, `disease`, `bill_amount`) VALUES (1, 'John Doe', 30, 'New York', '1234567890', 'Diabetes', 100.00), (2, 'Jane Smith', 25, 'Los Angeles', '0987654321', 'Hypertension', 200.00), (3, 'Bob Johnson', 40, 'Chicago', '5551234567', 'Asthma', 300.00), (4, 'Alice Brown', 35, 'Houston', '9012345678', 'Heart Disease', 400.00), (5, 'Mike Davis', 28, 'Phoenix', '1112223333', 'Kidney Disease', 500.00), (6, 'Emily Taylor', 32, 'Philadelphia', '4445556666', 'Stroke', 600.00), (7, 'David Lee', 38, 'San Antonio', '7778889999', 'Cancer', 700.00), (8, 'Sarah Kim', 29, 'San Diego', '0001112222', 'Tuberculosis', 800.00), (9, 'Kevin White', 42, 'Dallas', '3334445555', 'Pneumonia', 900.00), (10, 'Olivia Martin', 36, 'San Jose', '6667778888', 'Flu', 1000.00)
+2026-02-26 03:59:20 | ERROR    | mysql_manager:execute_query:196 | Query failed: 1062 (23000): Duplicate entry '1' for key 'patients.PRIMARY'
+Query: INSERT INTO `patients` (`patient_id`, `name`, `age`, `city`, `phone`, `disease`, `bill_amount`) VALUES (1, 'John Doe', 30, 'New York', '1234567890', 'Diabetes', 100.00), (2, 'Jane Smith', 25, 'Los Angeles', '0987654321', 'Hypertension', 200.00), (3, 'Bob Johnson', 40, 'Chicago', '5551234567', 'Asthma', 300.00), (4, 'Alice Brown', 35, 'Houston', '9012345678', 'Heart Disease', 400.00), (5, 'Mike Davis', 28, 'Phoenix', '1112223333', 'Kidney Disease', 500.00), (6, 'Emily Taylor', 32, 'Philadelphia', '4445556666', 'Stroke', 600.00), (7, 'David Lee', 38, 'San Antonio', '7778889999', 'Cancer', 700.00), (8, 'Sarah Kim', 29, 'San Diego', '0001112222', 'Tuberculosis', 800.00), (9, 'Kevin White', 42, 'Dallas', '3334445555', 'Pneumonia', 900.00), (10, 'Olivia Martin', 36, 'San Jose', '6667778888', 'Flu', 1000.00)
+2026-02-26 04:48:49 | INFO     | logger:setup_logger:29 | DBMA Logger initialized
+2026-02-26 04:48:49 | INFO     | main:launch_tui:78 | Starting DBMA v1.0.0 (TUI mode)
+2026-02-26 04:48:54 | INFO     | mysql_manager:connect:82 | Connected to MySQL at localhost:3306
+2026-02-26 04:48:54 | INFO     | persistence:connect:74 | Connected to PostgreSQL persistence DB: dbma_persistence
+2026-02-26 04:48:54 | INFO     | persistence:initialize_schema:107 | PostgreSQL schema initialized successfully
+2026-02-26 04:48:54 | INFO     | agent:__init__:147 | DBMAAgent initialized with model: llama3.1:8b
+2026-02-26 04:49:34 | ERROR    | mysql_manager:execute_query:196 | Query failed: 1049 (42000): Unknown database 'hospital_databas'
+Query: USE `hospital_databas`
+2026-02-26 04:49:52 | INFO     | mysql_manager:use_database:126 | Switched to database: hospital_database
+2026-02-26 04:49:52 | INFO     | agent:set_database_context:159 | Setting database context: hospital_database
+2026-02-26 04:49:52 | INFO     | mysql_manager:use_database:126 | Switched to database: hospital_database
+2026-02-26 04:49:52 | INFO     | agent:set_database_context:173 | Loaded thread thread_fa0cca9b014b55911dc56c38762bc40c with 18 historical messages
+2026-02-26 04:49:52 | INFO     | persistence:load_chat_history:279 | Loaded 18 messages for thread: thread_fa0cca9b014b55911dc56c38762bc40c
+2026-02-26 04:55:33 | ERROR    | mysql_manager:execute_query:196 | Query failed: 1701 (42000): Cannot truncate a table referenced in a foreign key constraint (`hospital_database`.`appointments`, CONSTRAINT `appointments_ibfk_1`)
+Query: TRUNCATE TABLE `patients`
+2026-02-26 05:01:56 | INFO     | mysql_manager:use_database:126 | Switched to database: dbma_db
+2026-02-26 05:01:56 | INFO     | agent:set_database_context:159 | Setting database context: dbma_db
+2026-02-26 05:01:56 | INFO     | mysql_manager:use_database:126 | Switched to database: dbma_db
+2026-02-26 05:01:56 | INFO     | agent:set_database_context:173 | Loaded thread thread_83cbff88cad849f966069413c4cb9bdc with 48 historical messages
+2026-02-26 05:01:56 | INFO     | persistence:load_chat_history:279 | Loaded 48 messages for thread: thread_83cbff88cad849f966069413c4cb9bdc
+2026-02-26 05:08:39 | INFO     | logger:setup_logger:29 | DBMA Logger initialized
+2026-02-26 05:08:39 | INFO     | main:launch_tui:78 | Starting DBMA v1.0.0 (TUI mode)
+2026-02-26 05:08:43 | INFO     | mysql_manager:connect:82 | Connected to MySQL at localhost:3306
+2026-02-26 05:08:43 | INFO     | persistence:connect:74 | Connected to PostgreSQL persistence DB: dbma_persistence
+2026-02-26 05:08:43 | INFO     | persistence:initialize_schema:107 | PostgreSQL schema initialized successfully
+2026-02-26 05:08:43 | INFO     | agent:__init__:147 | DBMAAgent initialized with model: llama3.1:8b
+2026-02-26 05:13:51 | INFO     | logger:setup_logger:29 | DBMA Logger initialized
+2026-02-26 05:13:51 | INFO     | main:launch_tui:78 | Starting DBMA v1.0.0 (TUI mode)
+2026-02-26 05:15:38 | INFO     | logger:setup_logger:29 | DBMA Logger initialized
+2026-02-26 05:15:38 | INFO     | main:launch_tui:78 | Starting DBMA v1.0.0 (TUI mode)
+2026-02-26 05:17:33 | INFO     | logger:setup_logger:29 | DBMA Logger initialized
+2026-02-26 05:17:33 | INFO     | main:launch_tui:78 | Starting DBMA v1.0.0 (TUI mode)
+2026-02-26 05:17:37 | INFO     | mysql_manager:connect:82 | Connected to MySQL at localhost:3306
+2026-02-26 05:17:37 | INFO     | persistence:connect:74 | Connected to PostgreSQL persistence DB: dbma_persistence
+2026-02-26 05:17:37 | INFO     | persistence:initialize_schema:107 | PostgreSQL schema initialized successfully
+2026-02-26 05:17:37 | INFO     | agent:__init__:147 | DBMAAgent initialized with model: llama3.1:8b
+2026-02-26 05:38:09 | INFO     | logger:setup_logger:29 | DBMA Logger initialized
+2026-02-26 05:38:09 | INFO     | main:launch_tui:78 | Starting DBMA v1.0.0 (TUI mode)
+2026-02-26 05:39:32 | INFO     | logger:setup_logger:29 | DBMA Logger initialized
+2026-02-26 05:39:32 | INFO     | main:launch_tui:78 | Starting DBMA v1.0.0 (TUI mode)
+2026-02-26 05:39:35 | INFO     | mysql_manager:connect:82 | Connected to MySQL at localhost:3306
+2026-02-26 05:39:35 | INFO     | persistence:connect:74 | Connected to PostgreSQL persistence DB: dbma_persistence
+2026-02-26 05:39:35 | INFO     | persistence:initialize_schema:107 | PostgreSQL schema initialized successfully
+2026-02-26 05:39:35 | INFO     | agent:__init__:147 | DBMAAgent initialized with model: llama3.1:8b
+2026-02-26 05:49:32 | INFO     | logger:setup_logger:29 | DBMA Logger initialized
+2026-02-26 05:49:32 | INFO     | main:launch_tui:78 | Starting DBMA v1.0.0 (TUI mode)
+2026-02-26 05:49:35 | INFO     | mysql_manager:connect:82 | Connected to MySQL at localhost:3306
+2026-02-26 05:49:35 | INFO     | persistence:connect:74 | Connected to PostgreSQL persistence DB: dbma_persistence
+2026-02-26 05:49:35 | INFO     | persistence:initialize_schema:107 | PostgreSQL schema initialized successfully
+2026-02-26 05:49:35 | INFO     | agent:__init__:147 | DBMAAgent initialized with model: llama3.1:8b
+2026-02-26 06:31:34 | INFO     | logger:setup_logger:29 | DBMA Logger initialized
+2026-02-26 06:31:34 | INFO     | main:launch_tui:78 | Starting DBMA v1.0.0 (TUI mode)
+2026-02-26 06:31:38 | INFO     | mysql_manager:connect:82 | Connected to MySQL at localhost:3306
+2026-02-26 06:31:38 | INFO     | persistence:connect:74 | Connected to PostgreSQL persistence DB: dbma_persistence
+2026-02-26 06:31:38 | INFO     | persistence:initialize_schema:107 | PostgreSQL schema initialized successfully
+2026-02-26 06:31:38 | INFO     | agent:__init__:147 | DBMAAgent initialized with model: llama3.1:8b
+2026-02-26 06:43:49 | INFO     | logger:setup_logger:29 | DBMA Logger initialized
+2026-02-26 06:43:49 | INFO     | main:launch_tui:78 | Starting DBMA v1.0.0 (TUI mode)
+2026-02-26 06:43:52 | INFO     | mysql_manager:connect:82 | Connected to MySQL at localhost:3306
+2026-02-26 06:43:53 | INFO     | persistence:connect:74 | Connected to PostgreSQL persistence DB: dbma_persistence
+2026-02-26 06:43:53 | INFO     | persistence:initialize_schema:107 | PostgreSQL schema initialized successfully
+2026-02-26 06:43:53 | INFO     | agent:__init__:147 | DBMAAgent initialized with model: llama3.1:8b
+2026-02-26 06:47:29 | INFO     | logger:setup_logger:29 | DBMA Logger initialized
+2026-02-26 06:47:29 | INFO     | main:launch_tui:78 | Starting DBMA v1.0.0 (TUI mode)
+2026-02-26 06:47:32 | INFO     | mysql_manager:connect:82 | Connected to MySQL at localhost:3306
+2026-02-26 06:47:32 | INFO     | persistence:connect:74 | Connected to PostgreSQL persistence DB: dbma_persistence
+2026-02-26 06:47:32 | INFO     | persistence:initialize_schema:107 | PostgreSQL schema initialized successfully
+2026-02-26 06:47:32 | INFO     | agent:__init__:147 | DBMAAgent initialized with model: llama3.1:8b
+2026-02-26 06:49:53 | INFO     | logger:setup_logger:29 | DBMA Logger initialized
+2026-02-26 06:49:53 | INFO     | main:launch_tui:78 | Starting DBMA v1.0.0 (TUI mode)
+2026-02-26 06:49:57 | INFO     | mysql_manager:connect:82 | Connected to MySQL at localhost:3306
+2026-02-26 06:49:57 | INFO     | persistence:connect:74 | Connected to PostgreSQL persistence DB: dbma_persistence
+2026-02-26 06:49:57 | INFO     | persistence:initialize_schema:107 | PostgreSQL schema initialized successfully
+2026-02-26 06:49:57 | INFO     | agent:__init__:147 | DBMAAgent initialized with model: llama3.1:8b
+2026-02-26 06:56:26 | INFO     | logger:setup_logger:29 | DBMA Logger initialized
+2026-02-26 06:56:26 | INFO     | main:launch_tui:78 | Starting DBMA v1.0.0 (TUI mode)
+2026-02-26 06:56:29 | INFO     | mysql_manager:connect:82 | Connected to MySQL at localhost:3306
+2026-02-26 06:56:29 | INFO     | persistence:connect:74 | Connected to PostgreSQL persistence DB: dbma_persistence
+2026-02-26 06:56:29 | INFO     | persistence:initialize_schema:107 | PostgreSQL schema initialized successfully
+2026-02-26 06:56:29 | INFO     | agent:__init__:790 | LangSmith tracing enabled — project: DBMA
+2026-02-26 06:56:29 | INFO     | agent:__init__:806 | DBMAAgent initialized with model: llama3.1:8b
+2026-02-26 06:56:29 | INFO     | agent:__init__:807 | LangSmith active: True
+2026-02-26 07:03:32 | INFO     | mysql_manager:use_database:126 | Switched to database: hospital_database
+2026-02-26 07:03:32 | INFO     | agent:set_database_context:819 | Setting database context: hospital_database
+2026-02-26 07:03:33 | INFO     | mysql_manager:use_database:126 | Switched to database: hospital_database
+2026-02-26 07:03:33 | INFO     | agent:set_database_context:833 | Loaded thread thread_fa0cca9b014b55911dc56c38762bc40c with 36 historical messages
+2026-02-26 07:03:33 | INFO     | persistence:load_chat_history:279 | Loaded 36 messages for thread: thread_fa0cca9b014b55911dc56c38762bc40c
+2026-02-26 07:06:20 | INFO     | logger:setup_logger:29 | DBMA Logger initialized
+2026-02-26 07:06:20 | INFO     | main:launch_tui:78 | Starting DBMA v1.0.0 (TUI mode)
+2026-02-26 07:06:23 | INFO     | mysql_manager:connect:82 | Connected to MySQL at localhost:3306
+2026-02-26 07:06:23 | INFO     | persistence:connect:74 | Connected to PostgreSQL persistence DB: dbma_persistence
+2026-02-26 07:06:23 | INFO     | persistence:initialize_schema:107 | PostgreSQL schema initialized successfully
+2026-02-26 07:06:25 | INFO     | agent:__init__:796 | LangSmith connected — project: DBMA
+2026-02-26 07:06:25 | INFO     | agent:__init__:820 | DBMAAgent initialized with model: llama3.1:8b
+2026-02-26 07:06:25 | INFO     | agent:__init__:821 | LangSmith active: True
+2026-02-26 07:06:51 | INFO     | mysql_manager:use_database:126 | Switched to database: hospital_database
+2026-02-26 07:06:51 | INFO     | agent:set_database_context:833 | Setting database context: hospital_database
+2026-02-26 07:06:51 | INFO     | mysql_manager:use_database:126 | Switched to database: hospital_database
+2026-02-26 07:06:51 | INFO     | agent:set_database_context:847 | Loaded thread thread_fa0cca9b014b55911dc56c38762bc40c with 36 historical messages
+2026-02-26 07:06:51 | INFO     | persistence:load_chat_history:279 | Loaded 36 messages for thread: thread_fa0cca9b014b55911dc56c38762bc40c
+2026-02-26 07:08:11 | ERROR    | mysql_manager:execute_query:196 | Query failed: 1075 (42000): Incorrect table definition; there can be only one auto column and it must be defined as a key
+Query: CREATE TABLE `employees` ( `employee_id` int NOT NULL AUTO_INCREMENT, `name` varchar(50) NOT NULL, `age` int NULL, `department` varchar(20) NULL, `salary` decimal(10,2) NULL, `hire_date` date NULL )
+2026-02-26 07:10:45 | ERROR    | mysql_manager:execute_query:196 | Query failed: 1075 (42000): Incorrect table definition; there can be only one auto column and it must be defined as a key
+Query: CREATE TABLE `employees` ( `employee_id` int NOT NULL AUTO_INCREMENT, `name` varchar(50) NOT NULL, `age` int NULL, `department` varchar(20) NULL, `salary` decimal(10,2) NULL, `hire_date` date NULL )
+2026-02-26 07:15:41 | ERROR    | mysql_manager:execute_query:196 | Query failed: 1075 (42000): Incorrect table definition; there can be only one auto column and it must be defined as a key
+Query: CREATE TABLE `nurses` ( `nurse_id` int NOT NULL AUTO_INCREMENT, `Name` varchar(50) NOT NULL, `DOB` date NOT NULL, `Designation` varchar(20) NOT NULL, `Email_Id` varchar(100) UNIQUE NOT NULL, `Address` varchar(200) NOT NULL )
+2026-02-26 07:20:11 | ERROR    | mysql_manager:execute_query:196 | Query failed: 1075 (42000): Incorrect table definition; there can be only one auto column and it must be defined as a key
+Query: CREATE TABLE `nurses` ( `nurse_id` int NOT NULL AUTO_INCREMENT, `Name` varchar(50) NOT NULL, `DOB` date NOT NULL, `Designation` varchar(20) NOT NULL, `Email_Id` varchar(100) UNIQUE NOT NULL, `Address` varchar(200) NOT NULL )
+2026-02-26 07:25:54 | INFO     | logger:setup_logger:29 | DBMA Logger initialized
+2026-02-26 07:25:54 | INFO     | main:launch_tui:78 | Starting DBMA v1.0.0 (TUI mode)
+2026-02-26 07:25:58 | INFO     | mysql_manager:connect:82 | Connected to MySQL at localhost:3306
+2026-02-26 07:25:58 | INFO     | persistence:connect:74 | Connected to PostgreSQL persistence DB: dbma_persistence
+2026-02-26 07:25:58 | INFO     | persistence:initialize_schema:107 | PostgreSQL schema initialized successfully
+2026-02-26 07:25:58 | INFO     | agent:__init__:147 | DBMAAgent initialized with model: llama3.1:8b
+2026-02-26 07:26:23 | INFO     | mysql_manager:use_database:126 | Switched to database: hospital_database
+2026-02-26 07:26:23 | INFO     | agent:set_database_context:159 | Setting database context: hospital_database
+2026-02-26 07:26:23 | INFO     | mysql_manager:use_database:126 | Switched to database: hospital_database
+2026-02-26 07:26:23 | INFO     | agent:set_database_context:173 | Loaded thread thread_fa0cca9b014b55911dc56c38762bc40c with 52 historical messages
+2026-02-26 07:26:23 | INFO     | persistence:load_chat_history:279 | Loaded 52 messages for thread: thread_fa0cca9b014b55911dc56c38762bc40c
+2026-02-26 08:53:05 | INFO     | logger:setup_logger:29 | DBMA Logger initialized
+2026-02-26 08:53:05 | INFO     | main:launch_tui:78 | Starting DBMA v1.0.0 (TUI mode)
+2026-02-26 08:53:09 | INFO     | mysql_manager:connect:82 | Connected to MySQL at localhost:3306
+2026-02-26 08:53:09 | INFO     | persistence:connect:74 | Connected to PostgreSQL persistence DB: dbma_persistence
+2026-02-26 08:53:09 | INFO     | persistence:initialize_schema:107 | PostgreSQL schema initialized successfully
+2026-02-26 08:53:10 | INFO     | agent:__init__:844 | LangSmith connected — project: DBMA
+2026-02-26 08:53:10 | INFO     | agent:__init__:868 | DBMAAgent initialized with model: llama3.1:8b
+2026-02-26 08:53:10 | INFO     | agent:__init__:869 | LangSmith active: True
+2026-02-26 08:55:14 | INFO     | mysql_manager:use_database:126 | Switched to database: hospital_database
+2026-02-26 08:55:14 | INFO     | agent:set_database_context:881 | Setting database context: hospital_database
+2026-02-26 08:55:14 | INFO     | mysql_manager:use_database:126 | Switched to database: hospital_database
+2026-02-26 08:55:14 | INFO     | agent:set_database_context:895 | Loaded thread thread_fa0cca9b014b55911dc56c38762bc40c with 68 historical messages
+2026-02-26 08:55:14 | INFO     | persistence:load_chat_history:279 | Loaded 68 messages for thread: thread_fa0cca9b014b55911dc56c38762bc40c
+2026-02-26 09:35:23 | ERROR    | agent:_chat_inner:1070 | LLM invocation failed: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=120)
+2026-02-26 09:49:38 | INFO     | logger:setup_logger:29 | DBMA Logger initialized
+2026-02-26 09:49:38 | INFO     | main:launch_tui:78 | Starting DBMA v1.0.0 (TUI mode)
+2026-02-26 09:49:43 | INFO     | mysql_manager:connect:82 | Connected to MySQL at localhost:3306
+2026-02-26 09:49:43 | INFO     | persistence:connect:74 | Connected to PostgreSQL persistence DB: dbma_persistence
+2026-02-26 09:49:43 | INFO     | persistence:initialize_schema:107 | PostgreSQL schema initialized successfully
+2026-02-26 09:49:44 | INFO     | agent:__init__:844 | LangSmith connected — project: DBMA
+2026-02-26 09:49:44 | INFO     | agent:__init__:868 | DBMAAgent initialized with model: llama3.1:8b
+2026-02-26 09:49:44 | INFO     | agent:__init__:869 | LangSmith active: True
+2026-02-26 09:50:21 | INFO     | mysql_manager:use_database:126 | Switched to database: hospital_database
+2026-02-26 09:50:21 | INFO     | agent:set_database_context:881 | Setting database context: hospital_database
+2026-02-26 09:50:21 | INFO     | mysql_manager:use_database:126 | Switched to database: hospital_database
+2026-02-26 09:50:21 | INFO     | agent:set_database_context:895 | Loaded thread thread_fa0cca9b014b55911dc56c38762bc40c with 100 historical messages
+2026-02-26 09:50:21 | INFO     | persistence:load_chat_history:279 | Loaded 100 messages for thread: thread_fa0cca9b014b55911dc56c38762bc40c
+2026-02-26 09:53:01 | ERROR    | agent:_chat_inner:1070 | LLM invocation failed: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=120)
+2026-02-26 09:54:38 | ERROR    | agent:_chat_inner:1070 | LLM invocation failed: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=120)
+2026-02-26 10:05:14 | INFO     | logger:setup_logger:29 | DBMA Logger initialized
+2026-02-26 10:05:14 | INFO     | main:launch_tui:78 | Starting DBMA v1.0.0 (TUI mode)
+2026-02-26 10:05:18 | INFO     | mysql_manager:connect:82 | Connected to MySQL at localhost:3306
+2026-02-26 10:05:18 | INFO     | persistence:connect:74 | Connected to PostgreSQL persistence DB: dbma_persistence
+2026-02-26 10:05:18 | INFO     | persistence:initialize_schema:107 | PostgreSQL schema initialized successfully
+2026-02-26 10:05:19 | INFO     | agent:__init__:844 | LangSmith connected — project: DBMA
+2026-02-26 10:05:19 | INFO     | agent:__init__:868 | DBMAAgent initialized with model: qwen3:8b
+2026-02-26 10:05:19 | INFO     | agent:__init__:869 | LangSmith active: True
+2026-02-26 10:05:42 | INFO     | mysql_manager:use_database:126 | Switched to database: hospital_database
+2026-02-26 10:05:42 | INFO     | agent:set_database_context:881 | Setting database context: hospital_database
+2026-02-26 10:05:42 | INFO     | mysql_manager:use_database:126 | Switched to database: hospital_database
+2026-02-26 10:05:42 | INFO     | agent:set_database_context:895 | Loaded thread thread_fa0cca9b014b55911dc56c38762bc40c with 102 historical messages
+2026-02-26 10:05:42 | INFO     | persistence:load_chat_history:279 | Loaded 100 messages for thread: thread_fa0cca9b014b55911dc56c38762bc40c
+2026-02-26 10:18:21 | INFO     | logger:setup_logger:29 | DBMA Logger initialized
+2026-02-26 10:18:21 | INFO     | main:launch_tui:78 | Starting DBMA v1.0.0 (TUI mode)
+2026-02-26 10:18:24 | INFO     | mysql_manager:connect:82 | Connected to MySQL at localhost:3306
+2026-02-26 10:18:24 | INFO     | persistence:connect:74 | Connected to PostgreSQL persistence DB: dbma_persistence
+2026-02-26 10:18:24 | INFO     | persistence:initialize_schema:107 | PostgreSQL schema initialized successfully
+2026-02-26 10:18:25 | INFO     | agent:__init__:1009 | LangSmith connected — project: DBMA
+2026-02-26 10:18:25 | INFO     | agent:__init__:1034 | DBMAAgent initialized with model: qwen3:8b
+2026-02-26 10:18:25 | INFO     | agent:__init__:1035 | LangSmith active: True
+2026-02-26 10:19:20 | INFO     | mysql_manager:use_database:126 | Switched to database: dbma_db
+2026-02-26 10:19:20 | INFO     | agent:set_database_context:1047 | Setting database context: dbma_db
+2026-02-26 10:19:21 | INFO     | mysql_manager:use_database:126 | Switched to database: dbma_db
+2026-02-26 10:19:21 | INFO     | agent:set_database_context:1061 | Loaded thread thread_83cbff88cad849f966069413c4cb9bdc with 50 historical messages
+2026-02-26 10:19:21 | INFO     | persistence:load_chat_history:279 | Loaded 50 messages for thread: thread_83cbff88cad849f966069413c4cb9bdc
+2026-02-26 10:20:58 | INFO     | persistence:load_chat_history:279 | Loaded 54 messages for thread: thread_83cbff88cad849f966069413c4cb9bdc
+2026-02-26 10:29:45 | INFO     | persistence:load_chat_history:279 | Loaded 68 messages for thread: thread_83cbff88cad849f966069413c4cb9bdc
+2026-02-26 10:32:20 | INFO     | persistence:load_chat_history:279 | Loaded 68 messages for thread: thread_83cbff88cad849f966069413c4cb9bdc
+2026-02-26 10:37:25 | INFO     | logger:setup_logger:29 | DBMA Logger initialized
+2026-02-26 10:37:25 | INFO     | main:launch_tui:78 | Starting DBMA v1.0.0 (TUI mode)
+2026-02-26 10:37:28 | INFO     | mysql_manager:connect:82 | Connected to MySQL at localhost:3306
+2026-02-26 10:37:29 | INFO     | persistence:connect:74 | Connected to PostgreSQL persistence DB: dbma_persistence
+2026-02-26 10:37:29 | INFO     | persistence:initialize_schema:107 | PostgreSQL schema initialized successfully
+2026-02-26 10:37:30 | INFO     | agent:__init__:195 | LangSmith connected — project: DBMA
+2026-02-26 10:37:30 | INFO     | agent:__init__:219 | DBMAAgent initialized with model: qwen3:8b
+2026-02-26 10:37:30 | INFO     | agent:__init__:220 | LangSmith active: True
+2026-02-26 10:38:02 | INFO     | mysql_manager:use_database:126 | Switched to database: dbma_db
+2026-02-26 10:38:02 | INFO     | agent:set_database_context:232 | Setting database context: dbma_db
+2026-02-26 10:38:02 | INFO     | mysql_manager:use_database:126 | Switched to database: dbma_db
+2026-02-26 10:38:02 | INFO     | agent:set_database_context:246 | Loaded thread thread_83cbff88cad849f966069413c4cb9bdc with 68 historical messages
+2026-02-26 10:38:02 | INFO     | persistence:load_chat_history:279 | Loaded 68 messages for thread: thread_83cbff88cad849f966069413c4cb9bdc
+2026-02-26 10:39:40 | INFO     | mysql_manager:use_database:126 | Switched to database: hospital_database
+2026-02-26 10:39:40 | INFO     | agent:set_database_context:232 | Setting database context: hospital_database
+2026-02-26 10:39:40 | INFO     | mysql_manager:use_database:126 | Switched to database: hospital_database
+2026-02-26 10:39:40 | INFO     | agent:set_database_context:246 | Loaded thread thread_fa0cca9b014b55911dc56c38762bc40c with 106 historical messages
+2026-02-26 10:39:40 | INFO     | persistence:load_chat_history:279 | Loaded 100 messages for thread: thread_fa0cca9b014b55911dc56c38762bc40c
+2026-02-26 10:56:41 | INFO     | logger:setup_logger:29 | DBMA Logger initialized
+2026-02-26 10:56:41 | INFO     | main:launch_tui:78 | Starting DBMA v1.0.0 (TUI mode)
+2026-02-26 10:56:45 | INFO     | mysql_manager:connect:82 | Connected to MySQL at localhost:3306
+2026-02-26 10:56:45 | INFO     | persistence:connect:74 | Connected to PostgreSQL persistence DB: dbma_persistence
+2026-02-26 10:56:45 | INFO     | persistence:initialize_schema:107 | PostgreSQL schema initialized successfully
+2026-02-26 10:56:46 | INFO     | agent:__init__:993 | LangSmith connected — project: DBMA
+2026-02-26 10:56:46 | INFO     | agent:__init__:1017 | DBMAAgent initialized with model: qwen3:8b
+2026-02-26 10:56:46 | INFO     | agent:__init__:1018 | LangSmith active: True
+2026-02-26 10:59:06 | INFO     | mysql_manager:use_database:126 | Switched to database: hospital_database
+2026-02-26 10:59:06 | INFO     | agent:set_database_context:1023 | Setting database context: hospital_database
+2026-02-26 10:59:06 | INFO     | mysql_manager:use_database:126 | Switched to database: hospital_database
+2026-02-26 10:59:06 | INFO     | agent:set_database_context:1030 | Loaded thread thread_fa0cca9b014b55911dc56c38762bc40c with 106 historical messages
+2026-02-26 10:59:06 | INFO     | persistence:load_chat_history:279 | Loaded 100 messages for thread: thread_fa0cca9b014b55911dc56c38762bc40c
+2026-02-26 11:01:19 | ERROR    | mysql_manager:execute_query:196 | Query failed: 1146 (42S02): Table 'hospital_database.patient' doesn't exist
+Query: DESCRIBE patient
+2026-02-26 11:18:29 | INFO     | logger:setup_logger:29 | DBMA Logger initialized
+2026-02-26 11:18:29 | INFO     | main:launch_tui:78 | Starting DBMA v1.0.0 (TUI mode)
+2026-02-26 11:18:33 | INFO     | mysql_manager:connect:82 | Connected to MySQL at localhost:3306
+2026-02-26 11:18:33 | INFO     | persistence:connect:74 | Connected to PostgreSQL persistence DB: dbma_persistence
+2026-02-26 11:18:33 | INFO     | persistence:initialize_schema:107 | PostgreSQL schema initialized successfully
+2026-02-26 11:18:34 | INFO     | agent:__init__:297 | LangSmith connected — project: DBMA
+2026-02-26 11:18:34 | INFO     | agent:__init__:321 | DBMAAgent initialized with model: qwen3:8b
+2026-02-26 11:18:34 | INFO     | agent:__init__:322 | LangSmith active: True
+2026-02-26 11:19:13 | INFO     | mysql_manager:use_database:126 | Switched to database: hospital_database
+2026-02-26 11:19:13 | INFO     | agent:set_database_context:334 | Setting database context: hospital_database
+2026-02-26 11:19:13 | INFO     | mysql_manager:use_database:126 | Switched to database: hospital_database
+2026-02-26 11:19:13 | INFO     | agent:set_database_context:348 | Loaded thread thread_fa0cca9b014b55911dc56c38762bc40c with 114 historical messages
+2026-02-26 11:19:13 | INFO     | persistence:load_chat_history:279 | Loaded 100 messages for thread: thread_fa0cca9b014b55911dc56c38762bc40c
+2026-02-26 11:47:07 | INFO     | mysql_manager:use_database:126 | Switched to database: hospital_db
+2026-02-26 11:47:07 | INFO     | agent:set_database_context:334 | Setting database context: hospital_db
+2026-02-26 11:47:07 | INFO     | mysql_manager:use_database:126 | Switched to database: hospital_db
+2026-02-26 11:47:07 | INFO     | agent:set_database_context:348 | Loaded thread thread_c03b0ca460ed1f136328a767f10269f9 with 4 historical messages
+2026-02-26 11:47:07 | INFO     | persistence:load_chat_history:279 | Loaded 4 messages for thread: thread_c03b0ca460ed1f136328a767f10269f9
+2026-02-26 11:55:09 | ERROR    | mysql_manager:execute_query:196 | Query failed: 1049 (42000): Unknown database 'my'
+Query: USE `my`
+2026-02-26 14:00:39 | INFO     | logger:setup_logger:29 | DBMA Logger initialized
+2026-02-26 14:00:39 | INFO     | main:launch_tui:78 | Starting DBMA v1.0.0 (TUI mode)
+2026-02-26 14:00:43 | INFO     | mysql_manager:connect:82 | Connected to MySQL at localhost:3306
+2026-02-26 14:00:43 | INFO     | persistence:connect:74 | Connected to PostgreSQL persistence DB: dbma_persistence
+2026-02-26 14:00:43 | INFO     | persistence:initialize_schema:107 | PostgreSQL schema initialized successfully
+2026-02-26 14:00:44 | INFO     | agent:__init__:1206 | LangSmith connected — project: DBMA
+2026-02-26 14:00:44 | INFO     | agent:__init__:1230 | DBMAAgent initialized with model: qwen3:8b
+2026-02-26 14:00:44 | INFO     | agent:__init__:1231 | LangSmith active: True
+2026-02-26 14:01:18 | INFO     | mysql_manager:use_database:126 | Switched to database: hospital_database
+2026-02-26 14:01:18 | INFO     | agent:set_database_context:1243 | Setting database context: hospital_database
+2026-02-26 14:01:18 | INFO     | mysql_manager:use_database:126 | Switched to database: hospital_database
+2026-02-26 14:01:18 | INFO     | agent:set_database_context:1257 | Loaded thread thread_fa0cca9b014b55911dc56c38762bc40c with 144 historical messages
+2026-02-26 14:01:18 | INFO     | persistence:load_chat_history:279 | Loaded 100 messages for thread: thread_fa0cca9b014b55911dc56c38762bc40c
+2026-02-26 14:45:58 | INFO     | logger:setup_logger:29 | DBMA Logger initialized
+2026-02-26 14:45:58 | INFO     | main:launch_tui:78 | Starting DBMA v1.0.0 (TUI mode)
+2026-02-26 14:46:02 | INFO     | mysql_manager:connect:82 | Connected to MySQL at localhost:3306
+2026-02-26 14:46:02 | INFO     | persistence:connect:74 | Connected to PostgreSQL persistence DB: dbma_persistence
+2026-02-26 14:46:02 | INFO     | persistence:initialize_schema:107 | PostgreSQL schema initialized successfully
+2026-02-26 14:46:03 | INFO     | agent:__init__:1412 | LangSmith connected — project: DBMA
+2026-02-26 14:46:03 | INFO     | agent:__init__:1436 | DBMAAgent initialized with model: qwen3:8b
+2026-02-26 14:46:03 | INFO     | agent:__init__:1437 | LangSmith active: True
+2026-02-26 14:46:03 | INFO     | agent:__init__:1438 | Self-healing: enabled (max 3 retries)
+2026-02-26 14:46:03 | INFO     | agent:__init__:1439 | Multi-agent optimizer: enabled
+2026-02-26 14:53:21 | INFO     | logger:setup_logger:29 | DBMA Logger initialized
+2026-02-26 14:53:21 | INFO     | main:launch_tui:78 | Starting DBMA v1.0.0 (TUI mode)
+2026-02-26 14:53:24 | INFO     | mysql_manager:connect:82 | Connected to MySQL at localhost:3306
+2026-02-26 14:53:24 | INFO     | persistence:connect:74 | Connected to PostgreSQL persistence DB: dbma_persistence
+2026-02-26 14:53:24 | INFO     | persistence:initialize_schema:107 | PostgreSQL schema initialized successfully
+2026-02-26 14:53:25 | INFO     | agent:__init__:1412 | LangSmith connected — project: DBMA
+2026-02-26 14:53:25 | INFO     | agent:__init__:1436 | DBMAAgent initialized with model: qwen3:8b
+2026-02-26 14:53:25 | INFO     | agent:__init__:1437 | LangSmith active: True
+2026-02-26 14:53:25 | INFO     | agent:__init__:1438 | Self-healing: enabled (max 3 retries)
+2026-02-26 14:53:25 | INFO     | agent:__init__:1439 | Multi-agent optimizer: enabled
+2026-02-26 15:03:02 | INFO     | logger:setup_logger:29 | DBMA Logger initialized
+2026-02-26 15:03:02 | INFO     | main:launch_tui:78 | Starting DBMA v1.0.0 (TUI mode)
+2026-02-26 15:03:05 | INFO     | mysql_manager:connect:82 | Connected to MySQL at localhost:3306
+2026-02-26 15:03:05 | INFO     | persistence:connect:74 | Connected to PostgreSQL persistence DB: dbma_persistence
+2026-02-26 15:03:05 | INFO     | persistence:initialize_schema:107 | PostgreSQL schema initialized successfully
+2026-02-26 15:03:06 | INFO     | agent:__init__:1412 | LangSmith connected — project: DBMA
+2026-02-26 15:03:06 | INFO     | agent:__init__:1436 | DBMAAgent initialized with model: qwen3:8b
+2026-02-26 15:03:06 | INFO     | agent:__init__:1437 | LangSmith active: True
+2026-02-26 15:03:06 | INFO     | agent:__init__:1438 | Self-healing: enabled (max 3 retries)
+2026-02-26 15:03:06 | INFO     | agent:__init__:1439 | Multi-agent optimizer: enabled
+2026-02-26 15:04:56 | INFO     | mysql_manager:use_database:126 | Switched to database: hospital_database
+2026-02-26 15:04:56 | INFO     | agent:set_database_context:1453 | Setting database context: hospital_database
+2026-02-26 15:04:56 | INFO     | mysql_manager:use_database:126 | Switched to database: hospital_database
+2026-02-26 15:04:56 | INFO     | agent:set_database_context:1467 | Loaded thread thread_fa0cca9b014b55911dc56c38762bc40c with 166 historical messages
+2026-02-26 15:04:56 | INFO     | persistence:load_chat_history:279 | Loaded 100 messages for thread: thread_fa0cca9b014b55911dc56c38762bc40c
+2026-02-26 15:11:43 | INFO     | logger:setup_logger:29 | DBMA Logger initialized
+2026-02-26 15:11:43 | INFO     | main:launch_tui:78 | Starting DBMA v1.0.0 (TUI mode)
+2026-02-26 15:11:46 | INFO     | mysql_manager:connect:82 | Connected to MySQL at localhost:3306
+2026-02-26 15:11:46 | INFO     | persistence:connect:74 | Connected to PostgreSQL persistence DB: dbma_persistence
+2026-02-26 15:11:46 | INFO     | persistence:initialize_schema:107 | PostgreSQL schema initialized successfully
+2026-02-26 15:11:47 | INFO     | agent:__init__:290 | LangSmith connected — project: DBMA
+2026-02-26 15:11:47 | INFO     | agent:__init__:314 | DBMAAgent initialized with model: qwen3:8b
+2026-02-26 15:11:47 | INFO     | agent:__init__:315 | LangSmith active: True
+2026-02-26 15:12:48 | INFO     | mysql_manager:use_database:126 | Switched to database: hospital_database
+2026-02-26 15:12:48 | INFO     | agent:set_database_context:327 | Setting database context: hospital_database
+2026-02-26 15:12:48 | INFO     | mysql_manager:use_database:126 | Switched to database: hospital_database
+2026-02-26 15:12:48 | INFO     | agent:set_database_context:341 | Loaded thread thread_fa0cca9b014b55911dc56c38762bc40c with 166 historical messages
+2026-02-26 15:12:48 | INFO     | persistence:load_chat_history:279 | Loaded 100 messages for thread: thread_fa0cca9b014b55911dc56c38762bc40c
+2026-02-26 15:17:18 | INFO     | logger:setup_logger:29 | DBMA Logger initialized
+2026-02-26 15:17:18 | INFO     | main:launch_tui:78 | Starting DBMA v1.0.0 (TUI mode)
+2026-02-26 15:17:21 | INFO     | mysql_manager:connect:82 | Connected to MySQL at localhost:3306
+2026-02-26 15:17:21 | INFO     | persistence:connect:74 | Connected to PostgreSQL persistence DB: dbma_persistence
+2026-02-26 15:17:21 | INFO     | persistence:initialize_schema:107 | PostgreSQL schema initialized successfully
+2026-02-26 15:17:22 | INFO     | agent:__init__:290 | LangSmith connected — project: DBMA
+2026-02-26 15:17:22 | INFO     | agent:__init__:314 | DBMAAgent initialized with model: qwen3:8b
+2026-02-26 15:17:22 | INFO     | agent:__init__:315 | LangSmith active: True
+2026-02-26 15:19:22 | INFO     | mysql_manager:use_database:126 | Switched to database: dbma_db
+2026-02-26 15:19:22 | INFO     | agent:set_database_context:327 | Setting database context: dbma_db
+2026-02-26 15:19:22 | INFO     | mysql_manager:use_database:126 | Switched to database: dbma_db
+2026-02-26 15:19:22 | INFO     | agent:set_database_context:341 | Loaded thread thread_83cbff88cad849f966069413c4cb9bdc with 72 historical messages
+2026-02-26 15:19:22 | INFO     | persistence:load_chat_history:279 | Loaded 72 messages for thread: thread_83cbff88cad849f966069413c4cb9bdc
+2026-02-26 15:20:08 | INFO     | mysql_manager:use_database:126 | Switched to database: dbma_db
+2026-02-26 15:20:08 | INFO     | agent:set_database_context:1243 | Setting database context: dbma_db
+2026-02-26 15:20:08 | INFO     | mysql_manager:use_database:126 | Switched to database: dbma_db
+2026-02-26 15:20:08 | INFO     | agent:set_database_context:1257 | Loaded thread thread_83cbff88cad849f966069413c4cb9bdc with 74 historical messages
+2026-02-26 15:20:08 | INFO     | persistence:load_chat_history:279 | Loaded 74 messages for thread: thread_83cbff88cad849f966069413c4cb9bdc
+2026-02-26 15:24:02 | INFO     | mysql_manager:use_database:126 | Switched to database: hospital_database
+2026-02-26 15:24:02 | INFO     | agent:set_database_context:1243 | Setting database context: hospital_database
+2026-02-26 15:24:02 | INFO     | mysql_manager:use_database:126 | Switched to database: hospital_database
+2026-02-26 15:24:02 | INFO     | agent:set_database_context:1257 | Loaded thread thread_fa0cca9b014b55911dc56c38762bc40c with 172 historical messages
+2026-02-26 15:24:02 | INFO     | persistence:load_chat_history:279 | Loaded 100 messages for thread: thread_fa0cca9b014b55911dc56c38762bc40c
+2026-02-26 15:26:47 | INFO     | mysql_manager:use_database:126 | Switched to database: dbma_db
+2026-02-26 15:26:47 | INFO     | agent:set_database_context:1243 | Setting database context: dbma_db
+2026-02-26 15:26:47 | INFO     | mysql_manager:use_database:126 | Switched to database: dbma_db
+2026-02-26 15:26:47 | INFO     | agent:set_database_context:1257 | Loaded thread thread_83cbff88cad849f966069413c4cb9bdc with 82 historical messages
+2026-02-26 15:26:47 | INFO     | persistence:load_chat_history:279 | Loaded 82 messages for thread: thread_83cbff88cad849f966069413c4cb9bdc
+2026-02-26 15:27:32 | INFO     | mysql_manager:use_database:126 | Switched to database: hospital_database
+2026-02-26 15:27:32 | INFO     | agent:set_database_context:327 | Setting database context: hospital_database
+2026-02-26 15:27:32 | INFO     | mysql_manager:use_database:126 | Switched to database: hospital_database
+2026-02-26 15:27:32 | INFO     | agent:set_database_context:341 | Loaded thread thread_fa0cca9b014b55911dc56c38762bc40c with 178 historical messages
+2026-02-26 15:27:32 | INFO     | persistence:load_chat_history:279 | Loaded 100 messages for thread: thread_fa0cca9b014b55911dc56c38762bc40c
+2026-02-26 15:29:10 | INFO     | logger:setup_logger:29 | DBMA Logger initialized
+2026-02-26 15:29:10 | INFO     | main:launch_tui:78 | Starting DBMA v1.0.0 (TUI mode)
+2026-02-26 15:29:13 | INFO     | mysql_manager:connect:82 | Connected to MySQL at localhost:3306
+2026-02-26 15:29:13 | INFO     | persistence:connect:74 | Connected to PostgreSQL persistence DB: dbma_persistence
+2026-02-26 15:29:13 | INFO     | persistence:initialize_schema:107 | PostgreSQL schema initialized successfully
+2026-02-26 15:29:15 | INFO     | agent:__init__:290 | LangSmith connected — project: DBMA
+2026-02-26 15:29:15 | INFO     | agent:__init__:314 | DBMAAgent initialized with model: qwen3:8b
+2026-02-26 15:29:15 | INFO     | agent:__init__:315 | LangSmith active: True
+2026-02-26 15:29:55 | INFO     | mysql_manager:use_database:126 | Switched to database: dbma_db
+2026-02-26 15:29:55 | INFO     | agent:set_database_context:327 | Setting database context: dbma_db
+2026-02-26 15:29:55 | INFO     | mysql_manager:use_database:126 | Switched to database: dbma_db
+2026-02-26 15:29:55 | INFO     | agent:set_database_context:341 | Loaded thread thread_83cbff88cad849f966069413c4cb9bdc with 84 historical messages
+2026-02-26 15:29:55 | INFO     | persistence:load_chat_history:279 | Loaded 84 messages for thread: thread_83cbff88cad849f966069413c4cb9bdc
+2026-02-26 15:30:23 | INFO     | mysql_manager:use_database:126 | Switched to database: hospital_database
+2026-02-26 15:30:23 | INFO     | agent:set_database_context:327 | Setting database context: hospital_database
+2026-02-26 15:30:23 | INFO     | mysql_manager:use_database:126 | Switched to database: hospital_database
+2026-02-26 15:30:23 | INFO     | agent:set_database_context:341 | Loaded thread thread_fa0cca9b014b55911dc56c38762bc40c with 180 historical messages
+2026-02-26 15:30:23 | INFO     | persistence:load_chat_history:279 | Loaded 100 messages for thread: thread_fa0cca9b014b55911dc56c38762bc40c
+2026-02-26 15:32:26 | INFO     | mysql_manager:use_database:126 | Switched to database: dbma_db
+2026-02-26 15:32:26 | INFO     | agent:set_database_context:327 | Setting database context: dbma_db
+2026-02-26 15:32:26 | INFO     | mysql_manager:use_database:126 | Switched to database: dbma_db
+2026-02-26 15:32:26 | INFO     | agent:set_database_context:341 | Loaded thread thread_83cbff88cad849f966069413c4cb9bdc with 86 historical messages
+2026-02-26 15:32:26 | INFO     | persistence:load_chat_history:279 | Loaded 86 messages for thread: thread_83cbff88cad849f966069413c4cb9bdc
+2026-02-26 15:32:54 | INFO     | mysql_manager:use_database:126 | Switched to database: hospital_database
+2026-02-26 15:32:54 | INFO     | agent:set_database_context:327 | Setting database context: hospital_database
+2026-02-26 15:32:54 | INFO     | mysql_manager:use_database:126 | Switched to database: hospital_database
+2026-02-26 15:32:54 | INFO     | agent:set_database_context:341 | Loaded thread thread_fa0cca9b014b55911dc56c38762bc40c with 186 historical messages
+2026-02-26 15:32:54 | INFO     | persistence:load_chat_history:279 | Loaded 100 messages for thread: thread_fa0cca9b014b55911dc56c38762bc40c
+2026-02-26 15:33:28 | INFO     | mysql_manager:use_database:126 | Switched to database: hospital_db
+2026-02-26 15:33:28 | INFO     | agent:set_database_context:327 | Setting database context: hospital_db
+2026-02-26 15:33:28 | INFO     | mysql_manager:use_database:126 | Switched to database: hospital_db
+2026-02-26 15:33:28 | INFO     | agent:set_database_context:341 | Loaded thread thread_c03b0ca460ed1f136328a767f10269f9 with 28 historical messages
+2026-02-26 15:33:28 | INFO     | persistence:load_chat_history:279 | Loaded 28 messages for thread: thread_c03b0ca460ed1f136328a767f10269f9
+2026-02-26 15:41:00 | INFO     | logger:setup_logger:29 | DBMA Logger initialized
+2026-02-26 15:41:00 | INFO     | main:launch_tui:78 | Starting DBMA v1.0.0 (TUI mode)
+2026-02-26 15:41:03 | INFO     | mysql_manager:connect:82 | Connected to MySQL at localhost:3306
+2026-02-26 15:41:03 | INFO     | persistence:connect:74 | Connected to PostgreSQL persistence DB: dbma_persistence
+2026-02-26 15:41:03 | INFO     | persistence:initialize_schema:107 | PostgreSQL schema initialized successfully
+2026-02-26 15:41:04 | INFO     | agent:__init__:1412 | LangSmith connected — project: DBMA
+2026-02-26 15:41:04 | INFO     | agent:__init__:1436 | DBMAAgent initialized with model: qwen3:8b
+2026-02-26 15:41:04 | INFO     | agent:__init__:1437 | LangSmith active: True
+2026-02-26 15:41:04 | INFO     | agent:__init__:1438 | Self-healing: enabled (max 3 retries)
+2026-02-26 15:41:04 | INFO     | agent:__init__:1439 | Multi-agent optimizer: enabled
+2026-02-26 15:41:23 | INFO     | mysql_manager:use_database:126 | Switched to database: hospital_database
+2026-02-26 15:41:23 | INFO     | agent:set_database_context:1453 | Setting database context: hospital_database
+2026-02-26 15:41:23 | INFO     | mysql_manager:use_database:126 | Switched to database: hospital_database
+2026-02-26 15:41:23 | INFO     | agent:set_database_context:1467 | Loaded thread thread_fa0cca9b014b55911dc56c38762bc40c with 188 historical messages
+2026-02-26 15:41:23 | INFO     | persistence:load_chat_history:279 | Loaded 100 messages for thread: thread_fa0cca9b014b55911dc56c38762bc40c
+2026-02-26 15:41:43 | INFO     | mysql_manager:use_database:126 | Switched to database: dbma_db
+2026-02-26 15:41:43 | INFO     | agent:set_database_context:1453 | Setting database context: dbma_db
+2026-02-26 15:41:43 | INFO     | mysql_manager:use_database:126 | Switched to database: dbma_db
+2026-02-26 15:41:43 | INFO     | agent:set_database_context:1467 | Loaded thread thread_83cbff88cad849f966069413c4cb9bdc with 88 historical messages
+2026-02-26 15:41:43 | INFO     | persistence:load_chat_history:279 | Loaded 88 messages for thread: thread_83cbff88cad849f966069413c4cb9bdc
+2026-02-27 01:40:38 | INFO     | logger:setup_logger:29 | DBMA Logger initialized
+2026-02-27 01:40:38 | INFO     | main:launch_tui:78 | Starting DBMA v1.0.0 (TUI mode)
+2026-02-27 01:40:41 | INFO     | mysql_manager:connect:82 | Connected to MySQL at localhost:3306
+2026-02-27 01:40:41 | INFO     | persistence:connect:74 | Connected to PostgreSQL persistence DB: dbma_persistence
+2026-02-27 01:40:41 | INFO     | persistence:initialize_schema:107 | PostgreSQL schema initialized successfully
+2026-02-27 01:40:43 | INFO     | agent:__init__:1412 | LangSmith connected — project: DBMA
+2026-02-27 01:40:43 | INFO     | agent:__init__:1436 | DBMAAgent initialized with model: qwen3:8b
+2026-02-27 01:40:43 | INFO     | agent:__init__:1437 | LangSmith active: True
+2026-02-27 01:40:43 | INFO     | agent:__init__:1438 | Self-healing: enabled (max 3 retries)
+2026-02-27 01:40:43 | INFO     | agent:__init__:1439 | Multi-agent optimizer: enabled
+2026-02-27 01:41:02 | INFO     | mysql_manager:use_database:126 | Switched to database: hospital_database
+2026-02-27 01:41:02 | INFO     | agent:set_database_context:1453 | Setting database context: hospital_database
+2026-02-27 01:41:02 | INFO     | mysql_manager:use_database:126 | Switched to database: hospital_database
+2026-02-27 01:41:02 | INFO     | agent:set_database_context:1467 | Loaded thread thread_fa0cca9b014b55911dc56c38762bc40c with 190 historical messages
+2026-02-27 01:41:02 | INFO     | persistence:load_chat_history:279 | Loaded 100 messages for thread: thread_fa0cca9b014b55911dc56c38762bc40c
+2026-02-27 01:49:45 | INFO     | mysql_manager:use_database:126 | Switched to database: dbma_db
+2026-02-27 01:49:45 | INFO     | agent:set_database_context:1453 | Setting database context: dbma_db
+2026-02-27 01:49:45 | INFO     | mysql_manager:use_database:126 | Switched to database: dbma_db
+2026-02-27 01:49:45 | INFO     | agent:set_database_context:1467 | Loaded thread thread_83cbff88cad849f966069413c4cb9bdc with 88 historical messages
+2026-02-27 01:49:45 | INFO     | persistence:load_chat_history:279 | Loaded 88 messages for thread: thread_83cbff88cad849f966069413c4cb9bdc
+2026-02-27 01:51:51 | INFO     | mysql_manager:use_database:126 | Switched to database: hospital_database
+2026-02-27 01:51:51 | INFO     | agent:set_database_context:1453 | Setting database context: hospital_database
+2026-02-27 01:51:51 | INFO     | mysql_manager:use_database:126 | Switched to database: hospital_database
+2026-02-27 01:51:51 | INFO     | agent:set_database_context:1467 | Loaded thread thread_fa0cca9b014b55911dc56c38762bc40c with 196 historical messages
+2026-02-27 01:51:51 | INFO     | persistence:load_chat_history:279 | Loaded 100 messages for thread: thread_fa0cca9b014b55911dc56c38762bc40c
+2026-02-27 14:05:18 | INFO     | logger:setup_logger:29 | DBMA Logger initialized
+2026-02-27 14:05:18 | INFO     | main:launch_tui:78 | Starting DBMA v1.0.0 (TUI mode)
+2026-02-27 14:05:22 | INFO     | mysql_manager:connect:82 | Connected to MySQL at localhost:3306
+2026-02-27 14:05:22 | INFO     | persistence:connect:74 | Connected to PostgreSQL persistence DB: dbma_persistence
+2026-02-27 14:05:22 | INFO     | persistence:initialize_schema:107 | PostgreSQL schema initialized successfully
+2026-02-27 14:05:25 | INFO     | agent:__init__:467 | LangSmith connected — project: DBMA
+2026-02-27 14:05:25 | INFO     | agent:__init__:491 | DBMAAgent initialized with model: qwen3:8b
+2026-02-27 14:05:25 | INFO     | agent:__init__:492 | LangSmith active: True
+2026-02-27 14:05:25 | INFO     | agent:__init__:493 | Self-healing: enabled (max 3 retries)
+2026-02-27 14:05:25 | INFO     | agent:__init__:494 | Multi-agent optimizer: enabled
+2026-02-27 14:08:02 | INFO     | mysql_manager:use_database:126 | Switched to database: hospital_database
+2026-02-27 14:08:02 | INFO     | agent:set_database_context:508 | Setting database context: hospital_database
+2026-02-27 14:08:02 | INFO     | mysql_manager:use_database:126 | Switched to database: hospital_database
+2026-02-27 14:08:02 | INFO     | agent:set_database_context:522 | Loaded thread thread_fa0cca9b014b55911dc56c38762bc40c with 196 historical messages
+2026-02-27 14:08:02 | INFO     | persistence:load_chat_history:310 | Loaded 196 messages for thread: thread_fa0cca9b014b55911dc56c38762bc40c
+2026-02-27 14:11:16 | INFO     | logger:setup_logger:29 | DBMA Logger initialized
+2026-02-27 14:11:16 | INFO     | main:launch_tui:78 | Starting DBMA v1.0.0 (TUI mode)
+2026-02-27 14:11:20 | INFO     | mysql_manager:connect:82 | Connected to MySQL at localhost:3306
+2026-02-27 14:11:20 | INFO     | persistence:connect:74 | Connected to PostgreSQL persistence DB: dbma_persistence
+2026-02-27 14:11:20 | INFO     | persistence:initialize_schema:107 | PostgreSQL schema initialized successfully
+2026-02-27 14:11:21 | INFO     | agent:__init__:467 | LangSmith connected — project: DBMA
+2026-02-27 14:11:21 | INFO     | agent:__init__:491 | DBMAAgent initialized with model: qwen3:8b
+2026-02-27 14:11:21 | INFO     | agent:__init__:492 | LangSmith active: True
+2026-02-27 14:11:21 | INFO     | agent:__init__:493 | Self-healing: enabled (max 3 retries)
+2026-02-27 14:11:21 | INFO     | agent:__init__:494 | Multi-agent optimizer: enabled
+2026-02-27 14:15:12 | INFO     | mysql_manager:use_database:126 | Switched to database: hospital_database
+2026-02-27 14:15:12 | INFO     | agent:set_database_context:508 | Setting database context: hospital_database
+2026-02-27 14:15:12 | INFO     | mysql_manager:use_database:126 | Switched to database: hospital_database
+2026-02-27 14:15:12 | INFO     | agent:set_database_context:522 | Loaded thread thread_fa0cca9b014b55911dc56c38762bc40c with 196 historical messages
+2026-02-27 14:15:12 | INFO     | persistence:load_chat_history:310 | Loaded 100 messages for thread: thread_fa0cca9b014b55911dc56c38762bc40c
+2026-02-27 14:33:58 | INFO     | logger:setup_logger:29 | DBMA Logger initialized
+2026-02-27 14:33:58 | INFO     | main:launch_tui:78 | Starting DBMA v1.0.0 (TUI mode)
+2026-02-27 14:34:04 | INFO     | mysql_manager:connect:82 | Connected to MySQL at localhost:3306
+2026-02-27 14:34:05 | INFO     | persistence:connect:74 | Connected to PostgreSQL persistence DB: dbma_persistence
+2026-02-27 14:34:05 | INFO     | persistence:initialize_schema:107 | PostgreSQL schema initialized successfully
+2026-02-27 14:34:06 | INFO     | agent:__init__:467 | LangSmith connected — project: DBMA
+2026-02-27 14:34:06 | INFO     | agent:__init__:491 | DBMAAgent initialized with model: qwen3:8b
+2026-02-27 14:34:06 | INFO     | agent:__init__:492 | LangSmith active: True
+2026-02-27 14:34:06 | INFO     | agent:__init__:493 | Self-healing: enabled (max 3 retries)
+2026-02-27 14:34:06 | INFO     | agent:__init__:494 | Multi-agent optimizer: enabled
+2026-02-27 14:35:20 | INFO     | mysql_manager:use_database:126 | Switched to database: hospital_database
+2026-02-27 14:35:20 | INFO     | agent:set_database_context:508 | Setting database context: hospital_database
+2026-02-27 14:35:20 | INFO     | mysql_manager:use_database:126 | Switched to database: hospital_database
+2026-02-27 14:35:20 | INFO     | agent:set_database_context:522 | Loaded thread thread_fa0cca9b014b55911dc56c38762bc40c with 196 historical messages
+2026-02-27 14:35:20 | INFO     | persistence:load_chat_history:310 | Loaded 100 messages for thread: thread_fa0cca9b014b55911dc56c38762bc40c
+2026-02-27 14:36:05 | INFO     | agent:_run_optimizer_pipeline:945 | Optimizer Pipeline: Agent 2 (Optimizer) running...
+2026-02-27 14:36:24 | INFO     | agent:_run_optimizer_pipeline:960 | Optimizer Pipeline: Agent 3 (Validator) running...
+2026-02-27 14:36:40 | INFO     | agent:_run_optimizer_pipeline:985 | Optimizer Pipeline complete | Modified: False | Risk: LOW
+2026-02-27 14:58:26 | INFO     | logger:setup_logger:29 | DBMA Logger initialized
+2026-02-27 14:58:26 | INFO     | main:launch_tui:78 | Starting DBMA v1.0.0 (TUI mode)
+2026-02-27 14:58:32 | INFO     | mysql_manager:connect:82 | Connected to MySQL at localhost:3306
+2026-02-27 14:58:32 | INFO     | persistence:connect:74 | Connected to PostgreSQL persistence DB: dbma_persistence
+2026-02-27 14:58:32 | INFO     | persistence:initialize_schema:107 | PostgreSQL schema initialized successfully
+2026-02-27 14:58:34 | INFO     | agent:__init__:467 | LangSmith connected — project: DBMA
+2026-02-27 14:58:34 | INFO     | agent:__init__:491 | DBMAAgent initialized with model: qwen3:8b
+2026-02-27 14:58:34 | INFO     | agent:__init__:492 | LangSmith active: True
+2026-02-27 14:58:34 | INFO     | agent:__init__:493 | Self-healing: enabled (max 3 retries)
+2026-02-27 14:58:34 | INFO     | agent:__init__:494 | Multi-agent optimizer: enabled
+2026-02-27 14:59:00 | INFO     | mysql_manager:use_database:126 | Switched to database: dbma_db
+2026-02-27 14:59:00 | INFO     | agent:set_database_context:508 | Setting database context: dbma_db
+2026-02-27 14:59:00 | INFO     | mysql_manager:use_database:126 | Switched to database: dbma_db
+2026-02-27 14:59:00 | INFO     | agent:set_database_context:522 | Loaded thread thread_83cbff88cad849f966069413c4cb9bdc with 90 historical messages
+2026-02-27 14:59:00 | INFO     | persistence:load_chat_history:310 | Loaded 90 messages for thread: thread_83cbff88cad849f966069413c4cb9bdc
+2026-02-27 14:59:57 | INFO     | agent:_run_optimizer_pipeline:945 | Optimizer Pipeline: Agent 2 (Optimizer) running...
+2026-02-27 15:00:25 | INFO     | agent:_run_optimizer_pipeline:960 | Optimizer Pipeline: Agent 3 (Validator) running...
+2026-02-27 15:00:43 | INFO     | agent:_run_optimizer_pipeline:985 | Optimizer Pipeline complete | Modified: False | Risk: LOW
+2026-02-27 15:03:08 | INFO     | logger:setup_logger:29 | DBMA Logger initialized
+2026-02-27 15:03:08 | INFO     | main:launch_tui:78 | Starting DBMA v1.0.0 (TUI mode)
+2026-02-27 15:03:13 | INFO     | mysql_manager:connect:82 | Connected to MySQL at localhost:3306
+2026-02-27 15:03:13 | INFO     | persistence:connect:74 | Connected to PostgreSQL persistence DB: dbma_persistence
+2026-02-27 15:03:13 | INFO     | persistence:initialize_schema:107 | PostgreSQL schema initialized successfully
+2026-02-27 15:03:15 | INFO     | agent:__init__:467 | LangSmith connected — project: DBMA
+2026-02-27 15:03:15 | INFO     | agent:__init__:491 | DBMAAgent initialized with model: qwen3:8b
+2026-02-27 15:03:15 | INFO     | agent:__init__:492 | LangSmith active: True
+2026-02-27 15:03:15 | INFO     | agent:__init__:493 | Self-healing: enabled (max 3 retries)
+2026-02-27 15:03:15 | INFO     | agent:__init__:494 | Multi-agent optimizer: enabled
+2026-02-27 15:03:28 | INFO     | mysql_manager:use_database:126 | Switched to database: dbma_db
+2026-02-27 15:03:28 | INFO     | agent:set_database_context:508 | Setting database context: dbma_db
+2026-02-27 15:03:28 | INFO     | mysql_manager:use_database:126 | Switched to database: dbma_db
+2026-02-27 15:03:28 | INFO     | agent:set_database_context:522 | Loaded thread thread_83cbff88cad849f966069413c4cb9bdc with 92 historical messages
+2026-02-27 15:03:28 | INFO     | persistence:load_chat_history:310 | Loaded 92 messages for thread: thread_83cbff88cad849f966069413c4cb9bdc
+2026-02-27 19:19:22 | INFO     | logger:setup_logger:29 | DBMA Logger initialized
+2026-02-27 19:19:22 | INFO     | main:launch_tui:78 | Starting DBMA v1.0.0 (TUI mode)
+2026-02-27 19:19:25 | INFO     | mysql_manager:connect:82 | Connected to MySQL at localhost:3306
+2026-02-27 19:19:25 | INFO     | persistence:connect:74 | Connected to PostgreSQL persistence DB: dbma_persistence
+2026-02-27 19:19:25 | INFO     | persistence:initialize_schema:107 | PostgreSQL schema initialized successfully
+2026-02-27 19:19:27 | INFO     | agent:__init__:467 | LangSmith connected — project: DBMA
+2026-02-27 19:19:27 | INFO     | agent:__init__:491 | DBMAAgent initialized with model: qwen3:8b
+2026-02-27 19:19:27 | INFO     | agent:__init__:492 | LangSmith active: True
+2026-02-27 19:19:27 | INFO     | agent:__init__:493 | Self-healing: enabled (max 3 retries)
+2026-02-27 19:19:27 | INFO     | agent:__init__:494 | Multi-agent optimizer: enabled
+2026-02-27 19:19:42 | INFO     | mysql_manager:use_database:126 | Switched to database: hospital_database
+2026-02-27 19:19:42 | INFO     | agent:set_database_context:508 | Setting database context: hospital_database
+2026-02-27 19:19:42 | INFO     | mysql_manager:use_database:126 | Switched to database: hospital_database
+2026-02-27 19:19:42 | INFO     | agent:set_database_context:522 | Loaded thread thread_fa0cca9b014b55911dc56c38762bc40c with 198 historical messages
+2026-02-27 19:19:42 | INFO     | persistence:load_chat_history:310 | Loaded 100 messages for thread: thread_fa0cca9b014b55911dc56c38762bc40c
+2026-02-27 19:21:09 | INFO     | mysql_manager:use_database:126 | Switched to database: dbma_db
+2026-02-27 19:21:09 | INFO     | agent:set_database_context:508 | Setting database context: dbma_db
+2026-02-27 19:21:09 | INFO     | mysql_manager:use_database:126 | Switched to database: dbma_db
+2026-02-27 19:21:09 | INFO     | agent:set_database_context:522 | Loaded thread thread_83cbff88cad849f966069413c4cb9bdc with 100 historical messages
+2026-02-27 19:21:09 | INFO     | persistence:load_chat_history:310 | Loaded 100 messages for thread: thread_83cbff88cad849f966069413c4cb9bdc
+2026-02-27 19:22:38 | INFO     | agent:_run_optimizer_pipeline:945 | Optimizer Pipeline: Agent 2 (Optimizer) running...
+2026-02-27 19:23:11 | INFO     | agent:_run_optimizer_pipeline:960 | Optimizer Pipeline: Agent 3 (Validator) running...
+2026-02-27 19:23:30 | INFO     | agent:_run_optimizer_pipeline:985 | Optimizer Pipeline complete | Modified: False | Risk: LOW
+2026-02-27 21:26:06 | INFO     | logger:setup_logger:29 | DBMA Logger initialized
+2026-02-27 21:26:06 | INFO     | main:launch_tui:78 | Starting DBMA v1.0.0 (TUI mode)
+2026-02-27 21:26:10 | INFO     | mysql_manager:connect:82 | Connected to MySQL at localhost:3306
+2026-02-27 21:26:10 | INFO     | persistence:connect:74 | Connected to PostgreSQL persistence DB: dbma_persistence
+2026-02-27 21:26:10 | INFO     | persistence:initialize_schema:108 | PostgreSQL schema initialized successfully
+2026-02-27 21:26:11 | INFO     | agent:__init__:518 | LangSmith connected — project: DBMA
+2026-02-27 21:26:11 | INFO     | agent:__init__:542 | DBMAAgent initialized with model: qwen3:8b
+2026-02-27 21:26:11 | INFO     | agent:__init__:543 | LangSmith active: True
+2026-02-27 21:26:11 | INFO     | agent:__init__:544 | Self-healing: enabled (max 3 retries)
+2026-02-27 21:26:11 | INFO     | agent:__init__:545 | Multi-agent optimizer: enabled
+2026-02-27 21:26:33 | INFO     | mysql_manager:use_database:126 | Switched to database: dbma_db
+2026-02-27 21:26:33 | INFO     | agent:set_database_context:559 | Setting database context: dbma_db
+2026-02-27 21:26:33 | INFO     | mysql_manager:use_database:126 | Switched to database: dbma_db
+2026-02-27 21:26:33 | INFO     | mysql_manager:get_full_database_schema:327 | Extracting full schema for database: dbma_db
+2026-02-27 21:26:33 | INFO     | persistence:save_schema_cache:439 | Schema cached for thread=thread_83cbff88cad849f966069413c4cb9bdc tables=3
+2026-02-27 21:26:33 | INFO     | agent:_refresh_schema:601 | Schema refreshed from MySQL: 3 tables in `dbma_db`
+2026-02-27 21:26:33 | INFO     | agent:set_database_context:573 | Loaded thread thread_83cbff88cad849f966069413c4cb9bdc with 106 historical messages
+2026-02-27 21:26:33 | INFO     | persistence:load_chat_history:334 | Loaded 100 messages for thread: thread_83cbff88cad849f966069413c4cb9bdc
+2026-02-27 21:31:06 | INFO     | persistence:load_chat_history:334 | Loaded 106 messages for thread: thread_83cbff88cad849f966069413c4cb9bdc
+2026-02-27 21:31:48 | INFO     | persistence:save_conversation_summary:627 | Summary saved: thread=thread_83cbff88cad849f966069413c4cb9bdc covers 66 msgs up to seq=202
+2026-02-27 21:33:28 | INFO     | mysql_manager:use_database:126 | Switched to database: hospital_database
+2026-02-27 21:33:28 | INFO     | agent:set_database_context:559 | Setting database context: hospital_database
+2026-02-27 21:33:28 | INFO     | mysql_manager:use_database:126 | Switched to database: hospital_database
+2026-02-27 21:33:28 | INFO     | mysql_manager:get_full_database_schema:327 | Extracting full schema for database: hospital_database
+2026-02-27 21:33:28 | INFO     | persistence:save_schema_cache:439 | Schema cached for thread=thread_fa0cca9b014b55911dc56c38762bc40c tables=5
+2026-02-27 21:33:28 | INFO     | agent:_refresh_schema:601 | Schema refreshed from MySQL: 5 tables in `hospital_database`
+2026-02-27 21:33:28 | INFO     | agent:set_database_context:573 | Loaded thread thread_fa0cca9b014b55911dc56c38762bc40c with 202 historical messages
+2026-02-27 21:33:28 | INFO     | persistence:load_chat_history:334 | Loaded 100 messages for thread: thread_fa0cca9b014b55911dc56c38762bc40c
+2026-02-27 21:33:51 | INFO     | persistence:load_chat_history:334 | Loaded 202 messages for thread: thread_fa0cca9b014b55911dc56c38762bc40c
+2026-02-27 21:34:35 | INFO     | persistence:save_conversation_summary:627 | Summary saved: thread=thread_fa0cca9b014b55911dc56c38762bc40c covers 162 msgs up to seq=288
+2026-02-27 21:46:48 | INFO     | persistence:save_conversation_summary:627 | Summary saved: thread=thread_fa0cca9b014b55911dc56c38762bc40c covers 164 msgs up to seq=290
+2026-02-27 21:47:10 | INFO     | agent:_run_optimizer_pipeline:1049 | Optimizer Pipeline: Agent 2 (Optimizer) running...
+2026-02-27 21:47:31 | INFO     | agent:_run_optimizer_pipeline:1064 | Optimizer Pipeline: Agent 3 (Validator) running...
+2026-02-27 21:47:51 | INFO     | agent:_run_optimizer_pipeline:1089 | Optimizer Pipeline complete | Modified: False | Risk: LOW
+2026-02-27 22:05:43 | INFO     | persistence:clear_thread:590 | Cleared thread: thread_fa0cca9b014b55911dc56c38762bc40c
+2026-02-27 22:13:40 | INFO     | agent:_run_optimizer_pipeline:1049 | Optimizer Pipeline: Agent 2 (Optimizer) running...
+2026-02-27 22:14:03 | INFO     | agent:_run_optimizer_pipeline:1064 | Optimizer Pipeline: Agent 3 (Validator) running...
+2026-02-27 22:14:22 | INFO     | agent:_run_optimizer_pipeline:1089 | Optimizer Pipeline complete | Modified: False | Risk: LOW
+2026-02-27 22:14:41 | INFO     | mysql_manager:use_database:126 | Switched to database: dbma_db
+2026-02-27 22:14:41 | INFO     | agent:set_database_context:559 | Setting database context: dbma_db
+2026-02-27 22:14:41 | INFO     | mysql_manager:use_database:126 | Switched to database: dbma_db
+2026-02-27 22:14:41 | INFO     | mysql_manager:get_full_database_schema:327 | Extracting full schema for database: dbma_db
+2026-02-27 22:14:41 | INFO     | persistence:save_schema_cache:439 | Schema cached for thread=thread_83cbff88cad849f966069413c4cb9bdc tables=3
+2026-02-27 22:14:41 | INFO     | agent:_refresh_schema:601 | Schema refreshed from MySQL: 3 tables in `dbma_db`
+2026-02-27 22:14:41 | INFO     | agent:set_database_context:573 | Loaded thread thread_83cbff88cad849f966069413c4cb9bdc with 110 historical messages
+2026-02-27 22:14:41 | INFO     | persistence:load_chat_history:334 | Loaded 100 messages for thread: thread_83cbff88cad849f966069413c4cb9bdc
+2026-02-27 22:14:57 | INFO     | persistence:clear_thread:590 | Cleared thread: thread_83cbff88cad849f966069413c4cb9bdc
+2026-02-27 22:24:03 | INFO     | agent:_run_optimizer_pipeline:1049 | Optimizer Pipeline: Agent 2 (Optimizer) running...
+2026-02-27 22:24:35 | INFO     | agent:_run_optimizer_pipeline:1064 | Optimizer Pipeline: Agent 3 (Validator) running...
+2026-02-27 22:24:53 | INFO     | agent:_run_optimizer_pipeline:1089 | Optimizer Pipeline complete | Modified: False | Risk: LOW
+2026-02-27 22:27:55 | INFO     | agent:_run_optimizer_pipeline:1049 | Optimizer Pipeline: Agent 2 (Optimizer) running...
+2026-02-27 22:28:19 | INFO     | agent:_run_optimizer_pipeline:1064 | Optimizer Pipeline: Agent 3 (Validator) running...
+2026-02-27 22:28:40 | INFO     | agent:_run_optimizer_pipeline:1089 | Optimizer Pipeline complete | Modified: False | Risk: LOW
+2026-02-27 22:31:39 | INFO     | mysql_manager:use_database:126 | Switched to database: hospital_db
+2026-02-27 22:31:39 | INFO     | agent:set_database_context:559 | Setting database context: hospital_db
+2026-02-27 22:31:39 | INFO     | mysql_manager:use_database:126 | Switched to database: hospital_db
+2026-02-27 22:31:39 | INFO     | mysql_manager:get_full_database_schema:327 | Extracting full schema for database: hospital_db
+2026-02-27 22:31:39 | INFO     | persistence:save_schema_cache:439 | Schema cached for thread=thread_c03b0ca460ed1f136328a767f10269f9 tables=17
+2026-02-27 22:31:39 | INFO     | agent:_refresh_schema:601 | Schema refreshed from MySQL: 17 tables in `hospital_db`
+2026-02-27 22:31:39 | INFO     | agent:set_database_context:573 | Loaded thread thread_c03b0ca460ed1f136328a767f10269f9 with 36 historical messages
+2026-02-27 22:31:39 | INFO     | persistence:load_chat_history:334 | Loaded 36 messages for thread: thread_c03b0ca460ed1f136328a767f10269f9
+2026-02-27 22:31:49 | INFO     | persistence:load_chat_history:334 | Loaded 36 messages for thread: thread_c03b0ca460ed1f136328a767f10269f9
+2026-02-27 22:42:24 | INFO     | logger:setup_logger:29 | DBMA Logger initialized
+2026-02-27 22:42:24 | INFO     | main:launch_tui:78 | Starting DBMA v1.0.0 (TUI mode)
+2026-02-27 22:42:28 | INFO     | mysql_manager:connect:82 | Connected to MySQL at localhost:3306
+2026-02-27 22:42:28 | INFO     | persistence:connect:74 | Connected to PostgreSQL persistence DB: dbma_persistence
+2026-02-27 22:42:28 | INFO     | persistence:initialize_schema:108 | PostgreSQL schema initialized successfully
+2026-02-27 22:42:30 | INFO     | agent:__init__:519 | LangSmith connected — project: DBMA
+2026-02-27 22:42:30 | INFO     | agent:__init__:543 | DBMAAgent initialized with model: qwen3:8b
+2026-02-27 22:42:30 | INFO     | agent:__init__:544 | LangSmith active: True
+2026-02-27 22:42:30 | INFO     | agent:__init__:545 | Self-healing: enabled (max 3 retries)
+2026-02-27 22:42:30 | INFO     | agent:__init__:546 | Multi-agent optimizer: enabled
+2026-02-27 22:43:17 | INFO     | mysql_manager:use_database:126 | Switched to database: dbma_db
+2026-02-27 22:43:17 | INFO     | agent:set_database_context:560 | Setting database context: dbma_db
+2026-02-27 22:43:17 | INFO     | mysql_manager:use_database:126 | Switched to database: dbma_db
+2026-02-27 22:43:17 | INFO     | mysql_manager:get_full_database_schema:327 | Extracting full schema for database: dbma_db
+2026-02-27 22:43:17 | INFO     | persistence:save_schema_cache:439 | Schema cached for thread=thread_83cbff88cad849f966069413c4cb9bdc tables=3
+2026-02-27 22:43:17 | INFO     | agent:_refresh_schema:602 | Schema refreshed from MySQL: 3 tables in `dbma_db`
+2026-02-27 22:43:17 | INFO     | agent:set_database_context:574 | Loaded thread thread_83cbff88cad849f966069413c4cb9bdc with 10 historical messages
+2026-02-27 22:43:17 | INFO     | persistence:load_chat_history:334 | Loaded 10 messages for thread: thread_83cbff88cad849f966069413c4cb9bdc
+2026-02-27 22:44:56 | INFO     | persistence:clear_thread:590 | Cleared thread: thread_83cbff88cad849f966069413c4cb9bdc
+2026-02-27 22:52:01 | INFO     | agent:_run_optimizer_pipeline:1060 | Optimizer Pipeline: Agent 2 (Optimizer) running...
+2026-02-27 22:52:34 | INFO     | agent:_run_optimizer_pipeline:1075 | Optimizer Pipeline: Agent 3 (Validator) running...
+2026-02-27 22:52:52 | INFO     | agent:_run_optimizer_pipeline:1100 | Optimizer Pipeline complete | Modified: False | Risk: LOW
+2026-02-27 22:55:21 | INFO     | mysql_manager:use_database:126 | Switched to database: hospital_database
+2026-02-27 22:55:21 | INFO     | agent:set_database_context:560 | Setting database context: hospital_database
+2026-02-27 22:55:21 | INFO     | mysql_manager:use_database:126 | Switched to database: hospital_database
+2026-02-27 22:55:21 | INFO     | mysql_manager:get_full_database_schema:327 | Extracting full schema for database: hospital_database
+2026-02-27 22:55:21 | INFO     | persistence:save_schema_cache:439 | Schema cached for thread=thread_fa0cca9b014b55911dc56c38762bc40c tables=5
+2026-02-27 22:55:21 | INFO     | agent:_refresh_schema:602 | Schema refreshed from MySQL: 5 tables in `hospital_database`
+2026-02-27 22:55:21 | INFO     | agent:set_database_context:574 | Loaded thread thread_fa0cca9b014b55911dc56c38762bc40c with 10 historical messages
+2026-02-27 22:55:21 | INFO     | persistence:load_chat_history:334 | Loaded 10 messages for thread: thread_fa0cca9b014b55911dc56c38762bc40c
+2026-02-27 23:00:47 | INFO     | agent:_run_optimizer_pipeline:1060 | Optimizer Pipeline: Agent 2 (Optimizer) running...
+2026-02-27 23:01:08 | INFO     | agent:_run_optimizer_pipeline:1075 | Optimizer Pipeline: Agent 3 (Validator) running...
+2026-02-27 23:01:29 | INFO     | agent:_run_optimizer_pipeline:1100 | Optimizer Pipeline complete | Modified: False | Risk: LOW
+2026-02-27 23:04:35 | ERROR    | mysql_manager:execute_query:196 | Query failed: 1051 (42S02): Unknown table 'hospital_database.doctor_patient_appointments'
+Query: DROP TABLE `doctor_patient_appointments`
+2026-02-27 23:09:27 | ERROR    | mysql_manager:execute_query:196 | Query failed: 1049 (42000): Unknown database 'doctor_patient_appointments'
+Query: USE `hospital_database`; DROP TABLE `doctor_patient_appointments`
+2026-02-27 23:10:09 | INFO     | persistence:load_chat_history:334 | Loaded 18 messages for thread: thread_fa0cca9b014b55911dc56c38762bc40c
+2026-02-27 23:10:28 | ERROR    | mysql_manager:execute_query:196 | Query failed: 1051 (42S02): Unknown table 'hospital_database.doctor_patient_appointments'
+Query: DROP TABLE `doctor_patient_appointments`
+2026-02-27 23:17:00 | ERROR    | mysql_manager:execute_query:196 | Query failed: 1051 (42S02): Unknown table 'hospital_database.doctor_patient_appointments'
+Query: DROP TABLE doctor_patient_appointments
+2026-02-27 23:25:31 | INFO     | mysql_manager:use_database:126 | Switched to database: hospital_db
+2026-02-27 23:25:31 | INFO     | agent:set_database_context:560 | Setting database context: hospital_db
+2026-02-27 23:25:31 | INFO     | mysql_manager:use_database:126 | Switched to database: hospital_db
+2026-02-27 23:25:31 | INFO     | mysql_manager:get_full_database_schema:327 | Extracting full schema for database: hospital_db
+2026-02-27 23:25:31 | INFO     | persistence:save_schema_cache:439 | Schema cached for thread=thread_c03b0ca460ed1f136328a767f10269f9 tables=17
+2026-02-27 23:25:31 | INFO     | agent:_refresh_schema:602 | Schema refreshed from MySQL: 17 tables in `hospital_db`
+2026-02-27 23:25:31 | INFO     | agent:set_database_context:574 | Loaded thread thread_c03b0ca460ed1f136328a767f10269f9 with 38 historical messages
+2026-02-27 23:25:31 | INFO     | persistence:load_chat_history:334 | Loaded 38 messages for thread: thread_c03b0ca460ed1f136328a767f10269f9
+2026-02-27 23:25:41 | INFO     | persistence:clear_thread:590 | Cleared thread: thread_c03b0ca460ed1f136328a767f10269f9
+2026-02-27 23:25:48 | INFO     | persistence:load_chat_history:334 | Loaded 0 messages for thread: thread_c03b0ca460ed1f136328a767f10269f9
+2026-02-27 23:27:22 | INFO     | persistence:load_chat_history:334 | Loaded 2 messages for thread: thread_c03b0ca460ed1f136328a767f10269f9
+2026-02-27 23:27:51 | INFO     | agent:_run_optimizer_pipeline:1060 | Optimizer Pipeline: Agent 2 (Optimizer) running...
+2026-02-27 23:28:10 | INFO     | agent:_run_optimizer_pipeline:1075 | Optimizer Pipeline: Agent 3 (Validator) running...
+2026-02-27 23:28:29 | INFO     | agent:_run_optimizer_pipeline:1100 | Optimizer Pipeline complete | Modified: False | Risk: LOW
+2026-02-27 23:29:04 | INFO     | persistence:load_chat_history:334 | Loaded 4 messages for thread: thread_c03b0ca460ed1f136328a767f10269f9
+2026-02-27 23:30:05 | INFO     | mysql_manager:use_database:126 | Switched to database: dbma_db
+2026-02-27 23:30:05 | INFO     | agent:set_database_context:560 | Setting database context: dbma_db
+2026-02-27 23:30:05 | INFO     | mysql_manager:use_database:126 | Switched to database: dbma_db
+2026-02-27 23:30:05 | INFO     | mysql_manager:get_full_database_schema:327 | Extracting full schema for database: dbma_db
+2026-02-27 23:30:05 | INFO     | persistence:save_schema_cache:439 | Schema cached for thread=thread_83cbff88cad849f966069413c4cb9bdc tables=3
+2026-02-27 23:30:05 | INFO     | agent:_refresh_schema:602 | Schema refreshed from MySQL: 3 tables in `dbma_db`
+2026-02-27 23:30:05 | INFO     | agent:set_database_context:574 | Loaded thread thread_83cbff88cad849f966069413c4cb9bdc with 10 historical messages
+2026-02-27 23:30:05 | INFO     | persistence:load_chat_history:334 | Loaded 10 messages for thread: thread_83cbff88cad849f966069413c4cb9bdc
+2026-02-27 23:31:09 | INFO     | agent:_run_optimizer_pipeline:1060 | Optimizer Pipeline: Agent 2 (Optimizer) running...
+2026-02-27 23:31:46 | INFO     | agent:_run_optimizer_pipeline:1075 | Optimizer Pipeline: Agent 3 (Validator) running...
+2026-02-27 23:32:05 | INFO     | agent:_run_optimizer_pipeline:1100 | Optimizer Pipeline complete | Modified: False | Risk: LOW
+2026-02-27 23:34:39 | INFO     | persistence:clear_thread:590 | Cleared thread: thread_83cbff88cad849f966069413c4cb9bdc
+2026-02-27 23:35:11 | ERROR    | mysql_manager:execute_query:196 | Query failed: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'dbma_db' at line 1
+Query: drop dbma_db
+2026-02-27 23:36:30 | INFO     | mysql_manager:use_database:126 | Switched to database: vikas_db
+2026-02-27 23:36:30 | INFO     | agent:set_database_context:560 | Setting database context: vikas_db
+2026-02-27 23:36:30 | INFO     | mysql_manager:use_database:126 | Switched to database: vikas_db
+2026-02-27 23:36:30 | INFO     | mysql_manager:get_full_database_schema:327 | Extracting full schema for database: vikas_db
+2026-02-27 23:36:30 | INFO     | persistence:save_schema_cache:439 | Schema cached for thread=thread_394ac73844ce47324e332c0e5f05fc6c tables=0
+2026-02-27 23:36:30 | INFO     | agent:_refresh_schema:602 | Schema refreshed from MySQL: 0 tables in `vikas_db`
+2026-02-27 23:36:30 | INFO     | agent:set_database_context:574 | Loaded thread thread_394ac73844ce47324e332c0e5f05fc6c with 0 historical messages
+2026-02-27 23:36:30 | INFO     | persistence:load_chat_history:334 | Loaded 0 messages for thread: thread_394ac73844ce47324e332c0e5f05fc6c
+2026-02-27 23:36:42 | INFO     | persistence:load_chat_history:334 | Loaded 0 messages for thread: thread_394ac73844ce47324e332c0e5f05fc6c
+2026-02-27 23:37:05 | INFO     | agent:_run_optimizer_pipeline:1060 | Optimizer Pipeline: Agent 2 (Optimizer) running...
+2026-02-27 23:37:26 | INFO     | agent:_run_optimizer_pipeline:1075 | Optimizer Pipeline: Agent 3 (Validator) running...
+2026-02-27 23:37:52 | INFO     | agent:_run_optimizer_pipeline:1100 | Optimizer Pipeline complete | Modified: False | Risk: LOW
+2026-02-27 23:39:43 | ERROR    | persistence:save_message:263 | save_message error: insert or update on table "dbma_messages" violates foreign key constraint "dbma_messages_thread_id_fkey"
+DETAIL:  Key (thread_id)=(thread_394ac73844ce47324e332c0e5f05fc6c) is not present in table "dbma_sessions".
+
+2026-02-27 23:39:43 | ERROR    | persistence:save_message:263 | save_message error: insert or update on table "dbma_messages" violates foreign key constraint "dbma_messages_thread_id_fkey"
+DETAIL:  Key (thread_id)=(thread_394ac73844ce47324e332c0e5f05fc6c) is not present in table "dbma_sessions".
+
+2026-02-27 23:39:43 | INFO     | mysql_manager:use_database:126 | Switched to database: hospital_db
+2026-02-27 23:39:44 | INFO     | agent:set_database_context:560 | Setting database context: hospital_db
+2026-02-27 23:39:44 | INFO     | mysql_manager:use_database:126 | Switched to database: hospital_db
+2026-02-27 23:39:44 | INFO     | mysql_manager:get_full_database_schema:327 | Extracting full schema for database: hospital_db
+2026-02-27 23:39:44 | INFO     | persistence:save_schema_cache:439 | Schema cached for thread=thread_c03b0ca460ed1f136328a767f10269f9 tables=17
+2026-02-27 23:39:44 | INFO     | agent:_refresh_schema:602 | Schema refreshed from MySQL: 17 tables in `hospital_db`
+2026-02-27 23:39:44 | INFO     | agent:set_database_context:574 | Loaded thread thread_c03b0ca460ed1f136328a767f10269f9 with 0 historical messages
+2026-02-27 23:39:44 | INFO     | persistence:load_chat_history:334 | Loaded 0 messages for thread: thread_c03b0ca460ed1f136328a767f10269f9
+2026-02-27 23:40:03 | INFO     | persistence:load_chat_history:334 | Loaded 0 messages for thread: thread_c03b0ca460ed1f136328a767f10269f9
+2026-02-27 23:41:21 | INFO     | persistence:load_chat_history:334 | Loaded 2 messages for thread: thread_c03b0ca460ed1f136328a767f10269f9
+2026-02-27 23:42:18 | INFO     | persistence:load_chat_history:334 | Loaded 4 messages for thread: thread_c03b0ca460ed1f136328a767f10269f9
+2026-02-27 23:43:13 | INFO     | mysql_manager:use_database:126 | Switched to database: vikas_db
+2026-02-27 23:43:13 | INFO     | agent:set_database_context:560 | Setting database context: vikas_db
+2026-02-27 23:43:13 | INFO     | mysql_manager:use_database:126 | Switched to database: vikas_db
+2026-02-27 23:43:13 | INFO     | mysql_manager:get_full_database_schema:327 | Extracting full schema for database: vikas_db
+2026-02-27 23:43:13 | INFO     | persistence:save_schema_cache:439 | Schema cached for thread=thread_394ac73844ce47324e332c0e5f05fc6c tables=0
+2026-02-27 23:43:13 | INFO     | agent:_refresh_schema:602 | Schema refreshed from MySQL: 0 tables in `vikas_db`
+2026-02-27 23:43:13 | INFO     | agent:set_database_context:574 | Loaded thread thread_394ac73844ce47324e332c0e5f05fc6c with 0 historical messages
+2026-02-27 23:43:13 | INFO     | persistence:load_chat_history:334 | Loaded 0 messages for thread: thread_394ac73844ce47324e332c0e5f05fc6c
+2026-02-27 23:43:41 | INFO     | persistence:load_chat_history:334 | Loaded 0 messages for thread: thread_394ac73844ce47324e332c0e5f05fc6c
+2026-02-27 23:45:56 | INFO     | persistence:load_chat_history:334 | Loaded 2 messages for thread: thread_394ac73844ce47324e332c0e5f05fc6c
+2026-02-27 23:46:19 | INFO     | agent:_run_optimizer_pipeline:1060 | Optimizer Pipeline: Agent 2 (Optimizer) running...
+2026-02-27 23:46:43 | INFO     | agent:_run_optimizer_pipeline:1075 | Optimizer Pipeline: Agent 3 (Validator) running...
+2026-02-27 23:47:12 | INFO     | agent:_run_optimizer_pipeline:1100 | Optimizer Pipeline complete | Modified: False | Risk: MEDIUM
+2026-02-27 23:47:49 | INFO     | persistence:load_chat_history:334 | Loaded 4 messages for thread: thread_394ac73844ce47324e332c0e5f05fc6c
+2026-02-27 23:49:19 | INFO     | mysql_manager:use_database:126 | Switched to database: hospital_db
+2026-02-27 23:49:19 | INFO     | agent:set_database_context:560 | Setting database context: hospital_db
+2026-02-27 23:49:19 | INFO     | mysql_manager:use_database:126 | Switched to database: hospital_db
+2026-02-27 23:49:19 | INFO     | mysql_manager:get_full_database_schema:327 | Extracting full schema for database: hospital_db
+2026-02-27 23:49:19 | INFO     | persistence:save_schema_cache:439 | Schema cached for thread=thread_c03b0ca460ed1f136328a767f10269f9 tables=17
+2026-02-27 23:49:19 | INFO     | agent:_refresh_schema:602 | Schema refreshed from MySQL: 17 tables in `hospital_db`
+2026-02-27 23:49:19 | INFO     | agent:set_database_context:574 | Loaded thread thread_c03b0ca460ed1f136328a767f10269f9 with 8 historical messages
+2026-02-27 23:49:19 | INFO     | persistence:load_chat_history:334 | Loaded 8 messages for thread: thread_c03b0ca460ed1f136328a767f10269f9
+2026-02-27 23:49:46 | INFO     | persistence:load_chat_history:334 | Loaded 8 messages for thread: thread_c03b0ca460ed1f136328a767f10269f9
+2026-02-27 23:50:05 | INFO     | agent:_run_optimizer_pipeline:1060 | Optimizer Pipeline: Agent 2 (Optimizer) running...
+2026-02-27 23:50:23 | INFO     | agent:_run_optimizer_pipeline:1075 | Optimizer Pipeline: Agent 3 (Validator) running...
+2026-02-27 23:50:47 | INFO     | agent:_run_optimizer_pipeline:1100 | Optimizer Pipeline complete | Modified: False | Risk: LOW
+2026-02-27 23:51:33 | INFO     | mysql_manager:use_database:126 | Switched to database: vikas_db
+2026-02-27 23:51:33 | INFO     | agent:set_database_context:560 | Setting database context: vikas_db
+2026-02-27 23:51:33 | INFO     | mysql_manager:use_database:126 | Switched to database: vikas_db
+2026-02-27 23:51:33 | INFO     | mysql_manager:get_full_database_schema:327 | Extracting full schema for database: vikas_db
+2026-02-27 23:51:33 | INFO     | persistence:save_schema_cache:439 | Schema cached for thread=thread_394ac73844ce47324e332c0e5f05fc6c tables=1
+2026-02-27 23:51:33 | INFO     | agent:_refresh_schema:602 | Schema refreshed from MySQL: 1 tables in `vikas_db`
+2026-02-27 23:51:33 | INFO     | agent:set_database_context:574 | Loaded thread thread_394ac73844ce47324e332c0e5f05fc6c with 8 historical messages
+2026-02-27 23:51:33 | INFO     | persistence:load_chat_history:334 | Loaded 8 messages for thread: thread_394ac73844ce47324e332c0e5f05fc6c
+2026-02-27 23:52:47 | INFO     | persistence:load_chat_history:334 | Loaded 8 messages for thread: thread_394ac73844ce47324e332c0e5f05fc6c
+2026-02-28 00:15:59 | INFO     | logger:setup_logger:29 | DBMA Logger initialized
+2026-02-28 00:15:59 | INFO     | main:launch_tui:78 | Starting DBMA v1.0.0 (TUI mode)
+2026-02-28 00:16:06 | INFO     | mysql_manager:connect:82 | Connected to MySQL at localhost:3306
+2026-02-28 00:16:07 | INFO     | persistence:connect:74 | Connected to PostgreSQL persistence DB: dbma_persistence
+2026-02-28 00:16:07 | INFO     | persistence:initialize_schema:108 | PostgreSQL schema initialized successfully
+2026-02-28 00:16:08 | INFO     | agent:__init__:519 | LangSmith connected — project: DBMA
+2026-02-28 00:16:08 | INFO     | agent:__init__:543 | DBMAAgent initialized with model: qwen3:8b
+2026-02-28 00:16:08 | INFO     | agent:__init__:544 | LangSmith active: True
+2026-02-28 00:16:08 | INFO     | agent:__init__:545 | Self-healing: enabled (max 3 retries)
+2026-02-28 00:16:08 | INFO     | agent:__init__:546 | Multi-agent optimizer: disabled
+2026-02-28 00:16:44 | INFO     | mysql_manager:use_database:126 | Switched to database: vikas_db
+2026-02-28 00:16:44 | INFO     | agent:set_database_context:560 | Setting database context: vikas_db
+2026-02-28 00:16:44 | INFO     | mysql_manager:use_database:126 | Switched to database: vikas_db
+2026-02-28 00:16:44 | INFO     | mysql_manager:get_full_database_schema:327 | Extracting full schema for database: vikas_db
+2026-02-28 00:16:44 | INFO     | persistence:save_schema_cache:439 | Schema cached for thread=thread_394ac73844ce47324e332c0e5f05fc6c tables=1
+2026-02-28 00:16:44 | INFO     | agent:_refresh_schema:611 | Schema refreshed from MySQL: 1 tables in `vikas_db`
+2026-02-28 00:16:44 | INFO     | agent:set_database_context:574 | Loaded thread thread_394ac73844ce47324e332c0e5f05fc6c with 8 historical messages
+2026-02-28 00:16:44 | INFO     | persistence:load_chat_history:334 | Loaded 8 messages for thread: thread_394ac73844ce47324e332c0e5f05fc6c
+2026-02-28 00:27:22 | INFO     | mysql_manager:use_database:126 | Switched to database: hospital_db
+2026-02-28 00:27:22 | INFO     | agent:set_database_context:560 | Setting database context: hospital_db
+2026-02-28 00:27:22 | INFO     | mysql_manager:use_database:126 | Switched to database: hospital_db
+2026-02-28 00:27:22 | INFO     | mysql_manager:get_full_database_schema:327 | Extracting full schema for database: hospital_db
+2026-02-28 00:27:22 | INFO     | persistence:save_schema_cache:439 | Schema cached for thread=thread_c03b0ca460ed1f136328a767f10269f9 tables=17
+2026-02-28 00:27:22 | INFO     | agent:_refresh_schema:611 | Schema refreshed from MySQL: 17 tables in `hospital_db`
+2026-02-28 00:27:22 | INFO     | agent:set_database_context:574 | Loaded thread thread_c03b0ca460ed1f136328a767f10269f9 with 12 historical messages
+2026-02-28 00:27:22 | INFO     | persistence:load_chat_history:334 | Loaded 12 messages for thread: thread_c03b0ca460ed1f136328a767f10269f9
+2026-02-28 00:41:34 | INFO     | logger:setup_logger:29 | DBMA Logger initialized
+2026-02-28 00:41:34 | INFO     | main:launch_tui:78 | Starting DBMA v1.0.0 (TUI mode)
+2026-02-28 00:41:38 | INFO     | mysql_manager:connect:82 | Connected to MySQL at localhost:3306
+2026-02-28 00:41:38 | INFO     | persistence:connect:74 | Connected to PostgreSQL persistence DB: dbma_persistence
+2026-02-28 00:41:38 | INFO     | persistence:initialize_schema:108 | PostgreSQL schema initialized successfully
+2026-02-28 00:41:39 | INFO     | agent:__init__:519 | LangSmith connected — project: DBMA
+2026-02-28 00:41:39 | INFO     | agent:__init__:543 | DBMAAgent initialized with model: qwen3:8b
+2026-02-28 00:41:39 | INFO     | agent:__init__:544 | LangSmith active: True
+2026-02-28 00:41:39 | INFO     | agent:__init__:545 | Self-healing: enabled (max 3 retries)
+2026-02-28 00:41:39 | INFO     | agent:__init__:546 | Multi-agent optimizer: disabled
+2026-02-28 00:45:33 | INFO     | logger:setup_logger:29 | DBMA Logger initialized
+2026-02-28 00:45:33 | INFO     | main:launch_tui:78 | Starting DBMA v1.0.0 (TUI mode)
+2026-02-28 00:45:36 | INFO     | mysql_manager:connect:82 | Connected to MySQL at localhost:3306
+2026-02-28 00:45:36 | INFO     | persistence:connect:74 | Connected to PostgreSQL persistence DB: dbma_persistence
+2026-02-28 00:45:36 | INFO     | persistence:initialize_schema:108 | PostgreSQL schema initialized successfully
+2026-02-28 00:45:38 | INFO     | agent:__init__:519 | LangSmith connected — project: DBMA
+2026-02-28 00:45:38 | INFO     | agent:__init__:543 | DBMAAgent initialized with model: qwen3:8b
+2026-02-28 00:45:38 | INFO     | agent:__init__:544 | LangSmith active: True
+2026-02-28 00:45:38 | INFO     | agent:__init__:545 | Self-healing: enabled (max 3 retries)
+2026-02-28 00:45:38 | INFO     | agent:__init__:546 | Multi-agent optimizer: disabled

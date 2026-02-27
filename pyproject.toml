@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=68.0", "wheel"]
+build-backend = "setuptools.backends.legacy:build"
+
+[project]
+name = "dbma"
+version = "1.0.0"
+description = "Database Management Agent — AI-powered MySQL CLI"
+requires-python = ">=3.10"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["core*", "ui*", "utils*"]
+
+[tool.pyright]
+pythonVersion = "3.10"
+pythonPlatform = "Windows"
+
+[tool.pytest.ini_options]
+asyncio_mode = "auto"

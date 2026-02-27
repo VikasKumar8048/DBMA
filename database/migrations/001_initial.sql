@@ -1,0 +1,6 @@
+-- ============================================================
+-- DBMA Migration 001 — Initial Schema
+-- Run: database/schema.sql
+-- ============================================================
+-- This file tracks migration history
+-- Migrations are applied via database/schema.sql (idempotent)
