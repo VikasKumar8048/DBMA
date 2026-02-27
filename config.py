@@ -46,7 +46,7 @@ class PostgreSQLConfig(BaseSettings):
     host: str = Field(default="localhost", env="POSTGRES_HOST")
     port: int = Field(default=5432, env="POSTGRES_PORT")
     user: str = Field(default="postgres", env="POSTGRES_USER")
-    password: str = Field(default="Dhankoli@90", env="POSTGRES_PASSWORD")
+    password: str = Field(default=" ", env="POSTGRES_PASSWORD")
     db: str = Field(default="dbma_persistence", env="POSTGRES_DB")
 
     class Config:
@@ -108,6 +108,7 @@ os.makedirs(BASE_DIR / "logs", exist_ok=True)
 import os
 from dotenv import load_dotenv
 load_dotenv()
+
 
 
 
